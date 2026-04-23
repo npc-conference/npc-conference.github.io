@@ -1,0 +1,73 @@
+site_name: NPC 2026 - The 22nd Annual IFIP International Conference on Network and Parallel Computing
+site_url: https://icpp2026.github.io/
+site_description: The 22nd Annual IFIP International Conference on Network and Parallel Computing (NPC 2026) - A premier forum for researchers, scientists, and practitioners in network and parallel computing. XX City, 2026.
+site_author: NPC 2026 Organizing Committee
+remote_branch: main
+theme:
+  name: material
+  language: en
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  custom_dir: overrides
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    # - navigation.footer
+    - navigation.prune
+    - navigation.indexes
+    - navigation.tabs.sticky
+    - toc.integrate
+    - navigation.top
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - search.suggest
+  palette:
+    primary: white
+
+extra_css:
+  - assets/stylesheets/extra.css
+copyright: Copyright &copy; The 22nd Annual IFIP International Conference on Network and Parallel Computing (NPC 2026).
+# hide the generator information in the footer
+extra:
+  generator: false
+nav:
+  - Home: index.md
+  - Committees: organizing-committee.md
+    # - Organizing Committee: organizing-committee.md
+    # - Technical Committee: technical-committee.md
+    # - Reproducibility Committee: reproducibility-committee.md
+  - Call for Submissions: call-for-papers.md
+    # - Call for Papers: call-for-papers.md
+    # - Call for Workshops: call-for-workshops.md
+    # - Call for Posters: call-for-posters.md
+    # - Call for Demos: call-for-demos.md
+    # - Call for Tutorials: call-for-tutorials.md
+  - Keynotes: keynote-speakers.md
+  - Program: schedule.md
+    # - Schedule: schedule.md
+    # - Panels: panels.md
+    # - Tutorials: tutorials.md
+  - Workshops: workshops.md
+  - Attending:
+    - Lodging: lodging.md
+    - Travel: travel.md
+    - Student Travel Awards: student-travel-awards.md
+    - Venue: venue.md
+    - Visa: visa.md
+    - Social Special Events: social-special-events.md
+  - Sponsors: sponsors.md
+  # - Previous ICPPs: previous-icpps.md
+plugins:
+  - search
+  # - git-revision-date-localized:
+
+# to open link in a new tab
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+
+# 54th International Conference on Parallel Processing
