@@ -24,7 +24,7 @@
   <meta property="og:url" content="{{ config.site_url }}{{ page.url }}" />
   <meta property="og:title" content="{% if page.meta and page.meta.title %}{{ page.meta.title }}{% else %}{{ page.title | striptags }}{% endif %} - ICPP 2026" />
   <meta property="og:description" content="{% if page.meta and page.meta.description %}{{ page.meta.description }}{% else %}ICPP 2026 - {{ page.title | striptags }}{% endif %}" />
-  <!-- <meta property="og:image" content="{{ config.site_url }}assets/logo.png" /> -->
+  <meta property="og:image" content="{{ config.site_url }}assets/logo.png" />
   <meta property="og:site_name" content="ICPP 2026" />
   
   {# Twitter Card #}
@@ -32,7 +32,7 @@
   <meta name="twitter:url" content="{{ config.site_url }}{{ page.url }}" />
   <meta name="twitter:title" content="{% if page.meta and page.meta.title %}{{ page.meta.title }}{% else %}{{ page.title | striptags }}{% endif %} - ICPP 2026" />
   <meta name="twitter:description" content="{% if page.meta and page.meta.description %}{{ page.meta.description }}{% else %}ICPP 2026 - {{ page.title | striptags }}{% endif %}" />
-  <!-- <meta name="twitter:image" content="{{ config.site_url }}assets/logo.png" /> -->
+  <meta name="twitter:image" content="{{ config.site_url }}assets/logo.png" />
 {% endblock %}
 
 {% block tabs %}
