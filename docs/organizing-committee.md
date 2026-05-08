@@ -52,8 +52,8 @@
 
 ## Publicity Chairs
 
-- Boyuan Zhang, University of Kentucky 
-- Zan Zong, University of Science and Technology Beijing
+- Boyuan Zhang, University of Kentucky, USA 
+- Zan Zong, University of Science and Technology Beijing, China
 
 ## Web Chairs
 
