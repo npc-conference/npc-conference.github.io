@@ -22,11 +22,11 @@ The 22nd Annual IFIP International Conference on Network and Parallel Computing 
 
 | Event | Date |
 |-------|------|
-| Abstract Submission | TBD |
-| Paper Submission | TBD |
-| Author Notiﬁcation | TBD |
-| Camera-ready Deadline | TBD |
-| Conference | 2026.11.28-2026.11.29 |
+| Paper Submission | July 15, 2026 |
+| Author Notiﬁcation | September 15, 2026 |
+| Camera-ready Deadline | September 30, 2026 |
+| Registration | September 30, 2026 |
+| Conference | November 28-29, 2026 |
 
 </div>
 
