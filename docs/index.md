@@ -33,8 +33,6 @@ The 22nd Annual IFIP International Conference on Network and Parallel Computing 
 <div markdown>
 <h2>Sponsors</h2>
 <img src="assets/imgs/s1.png" alt="Sponsor 1" width="100" style="margin-right: 10px;">
-<img src="assets/imgs/s2.png" alt="Sponsor 2" width="50" style="margin-right: 10px;">
-<img src="assets/imgs/s3.png" alt="Sponsor 3" width="45" style="margin-right: 10px;">
 <hr>
 </div>
 
