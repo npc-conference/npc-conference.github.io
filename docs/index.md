@@ -14,7 +14,7 @@ The IFIP International Conference on Network and Parallel Computing (NPC) is a p
 
 NPC is one of the CCF (China Computer Federation) recommended Conferences (C series, Computer Architecture/Parallel and Distributed Computing/Storage System), and also a C recommended conference under the ranking system by CORE, the Computing Research and Education Association of Australasia.
 
-The 22nd Annual IFIP International Conference on Network and Parallel Computing (NPC 2026) will take place.
+The 22nd Annual IFIP International Conference on Network and Parallel Computing (NPC 2026) will take place in Bali, Indonesia from November 28 to 29, 2026.
 </div>
 
 <div markdown>
@@ -26,7 +26,7 @@ The 22nd Annual IFIP International Conference on Network and Parallel Computing 
 | Paper Submission | TBD |
 | Author Notiﬁcation | TBD |
 | Camera-ready Deadline | TBD |
-| Conference | TBD |
+| Conference | 2026.11.28-2026.11.29 |
 
 </div>
 

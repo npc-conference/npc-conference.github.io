@@ -50,11 +50,17 @@
 - TBD
 - TBD -->
 
+## Local Chairs
+
+- Yuyang Jin, Tsinghua University, China
+
 ## Publicity Chairs
 
 - Boyuan Zhang, University of Kentucky, USA 
-- Zan Zong, University of Science and Technology Beijing, China
+- Xiaohai Dai, Huazhong University of Science and Technology, China
+
 
 ## Web Chairs
 
 - Han Zhao, Shanghai Jiao Tong University, China
+- Zan Zong, University of Science and Technology Beijing, China
