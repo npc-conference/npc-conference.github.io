@@ -57,4 +57,4 @@
 
 ## Web Chairs
 
-- Han Zhao, Shanghai Jiaotong University, China
+- Han Zhao, Shanghai Jiao Tong University, China
