@@ -59,6 +59,9 @@
 - Boyuan Zhang, University of Kentucky, USA 
 - Xiaohai Dai, Huazhong University of Science and Technology, China
 
+## Publication Chairs
+
+- Qingxiao Sun, Beihang University, China
 
 ## Web Chairs
 
