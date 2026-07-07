@@ -40,11 +40,11 @@ Topics of interest include, but are not limited to:
 
 ## Submission Guidelines
 
-<!-- <div style="text-align: center" markdown>
-[Submit Your Paper](https://ssl.linklings.net/conferences/icpp/){ .md-button .md-button--primary target="_blank"}
-</div> -->
+<div style="text-align: center" markdown>
+[Submit Your Paper](https://ocs.academicenter.com/submission/){ .md-button .md-button--primary target="_blank"}
+</div>
 
-Papers reporting original and unpublished research results and experience are solicited. All paper submissions will be handled electronically via our website: **TBD**.
+After you log in, please select "Author," then choose NPC 2026 to submit your paper. Papers reporting original and unpublished research results and experience are solicited. All paper submissions will be handled electronically via our website: [submission site](https://ocs.academicenter.com/submission/).
 
 All papers should be formatted using the [Springer-LNCS template](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines){:target="_blank"}, and must not exceed 12 pages. The reference is within the 12-page limitation. The conference proceedings will be published by Springer-LNCS, which is indexed by EI and Scopus.
 
