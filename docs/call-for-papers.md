@@ -32,11 +32,11 @@ Topics of interest include, but are not limited to:
 
 ## Important Dates
 
-- **Paper submission**: TBD
-- **Author notification**: TBD
-- **Camera-Ready**: TBD
-- **Registration**: TBD
-- **Conference date**: TBD
+- **Paper submission**: 15 August, 2026
+- **Author notification**: September 15, 2026
+- **Camera-Ready**: September 30, 2026
+- **Registration**: September 30, 2026
+- **Conference date**: November 28-29, 2026
 
 ## Submission Guidelines
 
