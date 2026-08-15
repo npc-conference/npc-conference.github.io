@@ -32,10 +32,12 @@ Topics of interest include, but are not limited to:
 
 ## Important Dates
 
-- **Paper submission**: 15 August, 2026
-- **Author notification**: September 15, 2026
-- **Camera-Ready**: September 30, 2026
-- **Registration**: September 30, 2026
+- **Paper Submission (Cycle A)**: August 15, 2026
+- **Paper Submission (Cycle B)**: September 15, 2026
+- **Author Notiﬁcation  (Cycle A)**: September 15, 2026
+- **Author Notiﬁcation  (Cycle B)**: October 15, 2026
+- **Camera-Ready**: October 30, 2026
+- **Registration**: October 30, 2026
 - **Conference date**: November 28-29, 2026
 
 ## Submission Guidelines
