@@ -22,7 +22,7 @@ The 22nd Annual IFIP International Conference on Network and Parallel Computing 
 
 | Event | Date |
 |-------|------|
-| Paper Submission (Cycle A) | <strong style="color:#d32f2f">August 15, 2026/strong> |
+| Paper Submission (Cycle A) | <strong style="color:#d32f2f">August 15, 2026</strong> |
 | Paper Submission (Cycle B) | <strong style="color:#4CAF50">September 15, 2026</strong> |
 | Author Notiﬁcation  (Cycle A) | September 15, 2026 |
 | Author Notiﬁcation  (Cycle B) | October 15, 2026 |
