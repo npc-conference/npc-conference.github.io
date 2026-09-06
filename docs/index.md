@@ -16,9 +16,10 @@ NPC is one of the CCF (China Computer Federation) recommended Conferences (C ser
 
 The 22nd Annual IFIP International Conference on Network and Parallel Computing (NPC 2026) will take place in Bali, Indonesia from December 12 to 13, 2026.
 
-<strong style="color:#4CAF50">In response to the strong interest from the research community, NPC 2026 has opened a second round of paper submissions. To safeguard the quality of the review process and to give authors sufficient time to prepare their manuscripts, the Organizing Committee has decided to reschedule the conference.</strong>
+**[Announcement]** In response to the strong interest from the research community, NPC 2026 has opened a second round of paper submissions. To safeguard the quality of the review process and to give authors sufficient time to prepare their manuscripts, the Organizing Committee has decided to reschedule the conference.
 
 <strong style="color:#4CAF50">New dates: December 12–13, 2026</strong>
+
 <strong style="color:#4CAF50">Location: Bali, Indonesia — UNCHANGED</strong>
 
 </div>
