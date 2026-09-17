@@ -38,7 +38,7 @@ Topics of interest include, but are not limited to:
 - **Author Notiﬁcation  (Cycle B)**: October 15, 2026
 - **Camera-Ready**: October 30, 2026
 - **Registration**: October 30, 2026
-- **Conference date**: December 12-13, 2026
+- **Conference date**: December 11-13, 2026
 
 ## Submission Guidelines
 
