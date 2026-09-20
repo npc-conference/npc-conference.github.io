@@ -70,6 +70,10 @@
 
 ## PC Members
 
+- Daoce Wang, University of Nebraska Omaha, USA
+- Hongzi Zhu, Shanghai Jiao Tong University, China
+- Quang-Trung Luu, CentraleSupélec, France
+- Minhui Xie, Nanjing University, China
 - Haodong Bian, Qinghai University, China
 - Chen Chen, Shanghai Jiao Tong University, China
 - Zhiguang Chen, Sun Yat-sen University, China
