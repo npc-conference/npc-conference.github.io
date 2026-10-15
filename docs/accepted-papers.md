@@ -1,0 +1,74 @@
+# Accepted Papers
+
+**Congratulations on the following papers and to their authors.**
+
+- NPC-2026-000020: SchedAgent: Useful-Readiness Scheduling for LLM Agent Workflows
+- NPC-2026-000028: RHRS: Fine-Grained Batch Scheduling for Programmable LLM Inference Systems
+- NPC-2026-000040: QB64: Unified Low-Bit Execution for High-Throughput LLM Inference on MT-3000
+- NPC-2026-000054: Efficient Large-Scale Temporal Graph Computing on the GPU
+- NPC-2026-000058: OmniPipe: Adaptive Pipeline Parallelism Scheduling for Efficient Large Language Model Training
+- NPC-2026-000060: TEE-Assisted Fingerprinting with State-Transition Auditing for Black-Box DNN Integrity Verification
+- NPC-2026-000065: Dependency-aware Task Scheduling in Collaborative Edge Computing through Reverse Auction
+- NPC-2026-000070: CISelect: Custom Instruction Selection via Multi-Level Cost Modeling Guided by Minimum Description Length
+- NPC-2026-000077: Regime-Aware Dynamic Pricing for Token-Budgeted LMaaS
+- NPC-2026-000090: Parallel Optimization of Sparse Matrix LU Factorization on GPU
+- NPC-2026-000094: Residual Low-Rank Hadamard Reparameterization for Heterogeneous Federated Learning
+- NPC-2026-000098: UNISON: User-Intent and Network-State Orchestrated Framework for 6G Distributed Core Networks
+- NPC-2026-000101: Efficient Wi-Fi CSI-Based Trajectory Tracking on Resource-Constrained Embedded Devices
+- NPC-2026-000105: ASTran: Architecture-Aware Sparse Transformer Inference with Operator Fusion on Ascend NPUs
+- NPC-2026-000108: Bandwidth-Aware Data Placement Routing for Software-Defined Edge Networks
+- NPC-2026-000111: Verifier-Gated LLM Heuristic Evolution for Online Edge-Cluster Scheduling
+- NPC-2026-000114: Accelerating Critical Path Analysis of Large-Scale HPC Traces via Communication Affinity-Aware Scheduling
+- NPC-2026-000118: Beyond Compression Ratio: High-Throughput KV Compression for Disaggregated LLM Serving
+- NPC-2026-000121: CoPrune: Turning Compute Budgets into Deployable Models for TEE-GPU Collaborative Inference
+- NPC-2026-000123: Deploying Terminal LLM Agents on Embedded Edge Devices: Measuring and Mitigating the Agent Scaffold Tax
+- NPC-2026-000131: VineGraph: Parallel and Storage-Efficient Approximate Nearest Neighbor Search via Pre-Navigation Graph
+- NPC-2026-000137: FP4Quant: Efficient 4-Bit Communication Compression for Model-Parallel LLM Training
+- NPC-2026-000140: SemiFE: Resource-Efficient Federated Semi-supervised Learning via Soft Knowledge Aggregation for Heterogeneous Edge Systems
+- NPC-2026-000146: Similarity-Aware Client-Side Reordering for Server-Side Storage Compression in Distributed File Systems
+- NPC-2026-000150: TAISM: A Programming-Model Abstraction for Heterogeneous Trusted Execution Environments
+- NPC-2026-000152: Distributed Multi-Variant Model Placement in Edge Computing: A Game-Theoretic Framework
+- NPC-2026-000157: ST4TE: Selective Synchronization of In-Network Virtual IP Address Caching in Cloud Networks
+- NPC-2026-000168: Parallel Optimization of a Guiding-Center Orbit Simulation Code for Tokamak Plasmas on the Sunway Bluelight II Supercomputer
+- NPC-2026-000171: CA-FEC: Balancing Recovery and Overhead via Context-Aware FEC for Cloud Gaming
+- NPC-2026-000172: Exploiting Profile-Guided Multi-Agent Optimization Workflow for Value-Related Inefficiencies
+- NPC-2026-000174: Azimuth: LLM-Guided Superoptimization with Semantic Search Priors
+- NPC-2026-000183: TetrisServe: Towards Efficient Serving of Agentic LLM Workflows with Demand-aware Routing
+- NPC-2026-000187: C²-TCCL: Computation–Communication Co-Optimized Path Selection for Heterogeneous GPU Clusters
+- NPC-2026-000197: PhotonZip: Lifecycle-Aware Compression for HDF5-Based Synchrotron Workflows
+- NPC-2026-000201: An Architecture-Aware Methodology for Optimizing Stencil-Based Applications on the LineShine Supercomputer
+- NPC-2026-000203: RegionZ: Online Reinforcement Learning for Adaptive Multi-page ZRAM Compression in Mobile Devices
+- NPC-2026-000205: MagBound: Relational Legality for Slot-Sanitization Masks in FHE Compilers for Packed CKKS
+- NPC-2026-000206: PEFTS: Multi-Tenant PEFT Serving
+- NPC-2026-000210: NPLB: High-Capacity Stateful Load Balancing on a Novel Programmable Network Processor
+- NPC-2026-000213: ENO-FS: First-Open Native Materialization for On-Demand Container Image Access
+- NPC-2026-000221: FastController: A Control Policy Based on Validated Profiles for Python Accelerator Process Configuration
+- NPC-2026-000231: ParallelPack: Shape-Aware Placement of Automatically Parallelized LLM Training Jobs in Shared GPU Clusters
+- NPC-2026-000242: Remaining-Work-Aware Dynamic Scheduling for Multi-GPU PBR Diffusion Inference
+- NPC-2026-000246: Implementing and Provisioning Disaggregated Ultra-Large MoE Serving on Ascend
+- NPC-2026-000249: DDQFM: Accelerating Flow Matching Inference with Differential-based Dynamic Quantization
+- NPC-2026-000256: NCGCN: A Neighborhood Cross-shaped GCN for Mitigating Feature Redundancy in Multi-DNN Offloading for Vehicular Edge Computing
+- NPC-2026-000259: SparQuant: Efficient Sparse NVFP4 Inference for Transformer Classifiers
+- NPC-2026-000272: MPSDNet: A Lightweight RGB-Infrared UAV Object Detection Network With Multi-Domain Feature Enhancement and Occlusion-Aware Fusion
+- NPC-2026-000276: SICA: A Shared Instruction Cache Architecture for Scale-Out Processors
+- NPC-2026-000286: Mapping the Fidelity–Latency Frontier of Heterogeneous Mixture-of-Experts Inference
+- NPC-2026-000293: Aurum: Cost-Efficient MoE Training in Heterogeneous GPU Cloud
+- NPC-2026-000300: TensorBLAS: A BLAS3 Library Optimized for Tensor Cores
+- NPC-2026-000301: Hydra: Transparent Replacement of a Failed GPU with Heterogeneous Idle GPUs in Distributed Training
+- NPC-2026-000315: TPBench: A Self-Contained Framework for Unified and Traceable Micro-Benchmarking
+- NPC-2026-000324: Accelerating Diffusion-Based Crystal Generation through Efficient Speculative Sampling
+- NPC-2026-000329: AttrPlace: Attribute-Driven Expert Placement for Efficient MoE Inference in Database Analytics
+- NPC-2026-000339: opEng: Operator-Level Energy Profiling for LLM Inference
+- NPC-2026-000342: Q-Shard: Efficient Quantum Circuit Cutting via Prefix-Sharing Search and Resource-Aware Circuit Partition in DQC Environment
+- NPC-2026-000344: GraphPortfolio: Budgeted Compression of Full and Piecewise CUDA Graphs
+- NPC-2026-000348: ARC-KV: Adaptive KV Cache Reuse via Cross-Document Attention Recovery for RAG
+- NPC-2026-000349: Accelerating Convolution Operators for Mixed-Precision CNN Training on LineShine Supercomputer
+- NPC-2026-000350: ORBIT: Predictive Scheduling of In-Network Aggregation Resources for Multi-Tenant Training
+- NPC-2026-000356: Toward Highly Efficient Intersection and Minimum-Distance Analysis for Geometric Modeling on ARM
+- NPC-2026-000358: FALCON: Exploring Asynchronous Acceleration for Large Language Model Training on Heterogeneous GPU-CPU Systems
+- NPC-2026-000361: CohereKV: KV Cache Merging with Group Compactness for Efficient LLM Inference
+- NPC-2026-000366: Gemini: Efficient Dynamic Graph Pattern Mining on Real-World GPU–PIM Heterogeneous Platforms
+- NPC-2026-000367: CueEdge: Edge-Local Soft Avoidance for Heterogeneous Cloud-Edge Scheduling
+- NPC-2026-000375: CodeTrustEval: Trustworthy Performance Evaluation for AI-Generated Code
+- NPC-2026-000388: Elbow-Heuristic-Guided Adaptive Weighted KNN Method for Visible Light Positioning
+- NPC-2026-000389: AgentServer: Decoupling Agent Loops, Tools, and Session State for Managed AI Agents
