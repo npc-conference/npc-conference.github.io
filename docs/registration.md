@@ -40,5 +40,5 @@ You will see the page below. Click **Pay** to go to the payment page, where you 
 
 ### Step 6: Receive your invitation letter.
 
-After payment, we will send an invitation letter to your email address within **6 hours**. If you have any questions about the invitation letter, please email us at zhao-han@cs.sjtu.edu.cn.
+After payment, we will send an invitation letter to your email address within **6 hours**. If you have any questions about the invitation letter, please email us at zhao-han@cs.sjtu.edu.cn or zongzan@ustb.edu.cn.
 
