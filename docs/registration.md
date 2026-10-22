@@ -42,3 +42,6 @@ You will see the page below. Click **Pay** to go to the payment page, where you 
 
 After payment, we will send an invitation letter to your email address within **6 hours**. If you have any questions about the invitation letter, please email us at zhao-han@cs.sjtu.edu.cn or zongzan@ustb.edu.cn.
 
+### Step 7: Receive your receipt.
+
+Every Friday, the registration system will automatically issue receipts for all orders. Please check your email for your receipt at that time.
