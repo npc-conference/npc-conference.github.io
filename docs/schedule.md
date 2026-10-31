@@ -3,9 +3,9 @@
 | Day | Highlights |
 |---|---|
 | **[Thu, 10 Dec](#dec-10)** — Registration | Attendee Registration & Check-in |
-| **[Fri, 11 Dec](#dec-11)** — Pre-Conference Day | Best Paper Selection · Organizing Committee Meeting · Poster Session |
-| **[Sat, 12 Dec](#dec-12)** — Main Conference Day 1 | Keynotes · Technical Sessions · Awards Banquet |
-| **[Sun, 13 Dec](#dec-13)** — Main Conference Day 2 | Keynotes · Technical Sessions |
+| **[Fri, 11 Dec](#dec-11)** — Main Conference Day 1 | Best Paper Selection · Organizing Committee Meeting · Poster Session |
+| **[Sat, 12 Dec](#dec-12)** — Main Conference Day 2 | Keynotes · Technical Sessions · Awards Banquet |
+| **[Sun, 13 Dec](#dec-13)** — Main Conference Day 3 | Keynotes · Technical Sessions |
 
 ## Detailed Schedule
 
