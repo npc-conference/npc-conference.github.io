@@ -1,5 +1,3 @@
-## The Full Schedule is Here.
-
 ## Program at a Glance
 
 | Day | Highlights |
