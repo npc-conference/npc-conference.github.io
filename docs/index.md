@@ -34,7 +34,7 @@ The 22nd Annual IFIP International Conference on Network and Parallel Computing 
 | Author Notiﬁcation  (Cycle A) | September 15, 2026 |
 | Author Notiﬁcation  (Cycle B) | October 15, 2026 |
 | Camera-ready Deadline | October 30, 2026 |
-| Registration | October 30, 2026 |
+| Registration | November 30, 2026 |
 | Conference | December 11-13, 2026 |
 
 </div>
