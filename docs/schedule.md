@@ -91,12 +91,12 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 **13:00–14:30 · Room A**  
 **Session Chair:** TBD
 
-| Order | Talk Time | Paper ID | Title | Authors |
-|---:|---|---|---|---|
-| 1 | 13:00–13:15 | NPC-2026-000058 | OmniPipe: Adaptive Pipeline Parallelism Scheduling for Efficient Large Language Model Training | Zijian Wang, Qilun Fu, Jiapeng Lin, Jing Wang, Ningming Nie, Wenzheng Cai, Jue Wang, Yangang Wang |
-| 2 | 13:18–13:33 | NPC-2026-000231 | ParallelPack: Shape-Aware Placement of Automatically Parallelized LLM Training Jobs in Shared GPU Clusters | Yuantao Wu, Wentao Fan, Gongming Zhao, Hongli Xu, Xiaohu Xu |
-| 3 | 13:36–13:51 | NPC-2026-000358 | FALCON: Exploring Asynchronous Acceleration for Large Language Model Training on Heterogeneous GPU-CPU Systems | Haomin Li, Fangxin Liu, Zongwu Wang, Li Jiang, Haibing Guan |
-| 4 | 13:54–14:09 | NPC-2026-000293 | Aurum: Cost-Efficient MoE Training in Heterogeneous GPU Cloud | Ying Ye, Zhi Zhou |
+| Talk Time | Title | Authors |
+|---|---|---|
+|   13:00–13:15   |   OmniPipe: Adaptive Pipeline Parallelism Scheduling for Efficient Large Language Model Training   |   Zijian Wang, Qilun Fu, Jiapeng Lin, Jing Wang, Ningming Nie, Wenzheng Cai, Jue Wang, Yangang Wang   |
+|   13:18–13:33   |   ParallelPack: Shape-Aware Placement of Automatically Parallelized LLM Training Jobs in Shared GPU Clusters   |   Yuantao Wu, Wentao Fan, Gongming Zhao, Hongli Xu, Xiaohu Xu   |
+|   13:36–13:51   |   FALCON: Exploring Asynchronous Acceleration for Large Language Model Training on Heterogeneous GPU-CPU Systems   |   Haomin Li, Fangxin Liu, Zongwu Wang, Li Jiang, Haibing Guan   |
+|   13:54–14:09   |   Aurum: Cost-Efficient MoE Training in Heterogeneous GPU Cloud   |   Ying Ye, Zhi Zhou   |
 
 <a id="s2"></a>
 
@@ -105,13 +105,13 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 **13:00–14:30 · Room B**  
 **Session Chair:** TBD
 
-| Order | Talk Time | Paper ID | Title | Authors |
-|---:|---|---|---|---|
-| 1 | 13:00–13:15 | NPC-2026-000098 | UNISON: User-Intent and Network-State Orchestrated Framework for 6G Distributed Core Networks | Jinci Wu, Xinyi Zhang, Zhuoran Ma, Gaogang Xie |
-| 2 | 13:18–13:33 | NPC-2026-000157 | ST4TE: Selective Synchronization of In-Network Virtual IP Address Caching in Cloud Networks | Mingyuan Zang, Geng Li, Jie Wu |
-| 3 | 13:36–13:51 | NPC-2026-000171 | CA-FEC: Balancing Recovery and Overhead via Context-Aware FEC for Cloud Gaming | Bo Gao, Zhuo Liu, Huanhuan Zhang, Ming Yue, Jianghe Cui, Huadong Ma |
-| 4 | 13:54–14:09 | NPC-2026-000210 | NPLB: High-Capacity Stateful Load Balancing on a Novel Programmable Network Processor | Yangjin Lingzhuo, Chengyuan Huang, Chuhan Zhou, Chen Tian, Wanchun Dou, Guihai Chen |
-| 5 | 14:12–14:27 | NPC-2026-000108 | Bandwidth-Aware Data Placement Routing for Software-Defined Edge Networks | Yuwen Zhou, Jing Sun, Rui He, Bangbang Ren |
+| Talk Time | Title | Authors |
+|---|---|---|
+|   13:00–13:15   |   UNISON: User-Intent and Network-State Orchestrated Framework for 6G Distributed Core Networks   |   Jinci Wu, Xinyi Zhang, Zhuoran Ma, Gaogang Xie   |
+|   13:18–13:33   |   ST4TE: Selective Synchronization of In-Network Virtual IP Address Caching in Cloud Networks   |   Mingyuan Zang, Geng Li, Jie Wu   |
+|   13:36–13:51   |   CA-FEC: Balancing Recovery and Overhead via Context-Aware FEC for Cloud Gaming   |   Bo Gao, Zhuo Liu, Huanhuan Zhang, Ming Yue, Jianghe Cui, Huadong Ma   |
+|   13:54–14:09   |   NPLB: High-Capacity Stateful Load Balancing on a Novel Programmable Network Processor   |   Yangjin Lingzhuo, Chengyuan Huang, Chuhan Zhou, Chen Tian, Wanchun Dou, Guihai Chen   |
+|   14:12–14:27   |   Bandwidth-Aware Data Placement Routing for Software-Defined Edge Networks   |   Yuwen Zhou, Jing Sun, Rui He, Bangbang Ren   |
 
 <a id="s3"></a>
 
@@ -120,13 +120,13 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 **13:00–14:30 · Room C**  
 **Session Chair:** TBD
 
-| Order | Talk Time | Paper ID | Title | Authors |
-|---:|---|---|---|---|
-| 1 | 13:00–13:15 | NPC-2026-000146 | Similarity-Aware Client-Side Reordering for Server-Side Storage Compression in Distributed File Systems | Yuanhong Huang, Zicong Chen, Yili Ma, Jinwu Yang, Yulong Chen, Guangming Tan, Dingwen Tao |
-| 2 | 13:18–13:33 | NPC-2026-000197 | PhotonZip: Lifecycle-Aware Compression for HDF5-Based Synchrotron Workflows | Haoxu Li, Wenjing Huang, Chengyu Liu, Shiyuan Fu, Hao Hu, Guangming Tan, Dingwen Tao |
-| 3 | 13:36–13:51 | NPC-2026-000203 | RegionZ: Online Reinforcement Learning for Adaptive Multi-page ZRAM Compression in Mobile Devices | Puyi He, Qianlong Sang, Chuang Hu, Xiaobo Zhou, Dazhao Cheng |
-| 4 | 13:54–14:09 | NPC-2026-000213 | ENO-FS: First-Open Native Materialization for On-Demand Container Image Access | Zhiyang Qi, Zhihong Qiu, Yuanhong Huang, Jibing Qiu |
-| 5 | 14:12–14:27 | NPC-2026-000131 | VineGraph: Parallel and Storage-Efficient Approximate Nearest Neighbor Search via Pre-Navigation Graph | Yumeng Xu, Jing Wang, Junyi Mei, Chao Li |
+| Talk Time | Title | Authors |
+|---|---|---|
+|   13:00–13:15   |   Similarity-Aware Client-Side Reordering for Server-Side Storage Compression in Distributed File Systems   |   Yuanhong Huang, Zicong Chen, Yili Ma, Jinwu Yang, Yulong Chen, Guangming Tan, Dingwen Tao   |
+|   13:18–13:33   |   PhotonZip: Lifecycle-Aware Compression for HDF5-Based Synchrotron Workflows   |   Haoxu Li, Wenjing Huang, Chengyu Liu, Shiyuan Fu, Hao Hu, Guangming Tan, Dingwen Tao   |
+|   13:36–13:51   |   RegionZ: Online Reinforcement Learning for Adaptive Multi-page ZRAM Compression in Mobile Devices   |   Puyi He, Qianlong Sang, Chuang Hu, Xiaobo Zhou, Dazhao Cheng   |
+|   13:54–14:09   |   ENO-FS: First-Open Native Materialization for On-Demand Container Image Access   |   Zhiyang Qi, Zhihong Qiu, Yuanhong Huang, Jibing Qiu   |
+|   14:12–14:27   |   VineGraph: Parallel and Storage-Efficient Approximate Nearest Neighbor Search via Pre-Navigation Graph   |   Yumeng Xu, Jing Wang, Junyi Mei, Chao Li   |
 
 <a id="s4"></a>
 
@@ -135,13 +135,13 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 **15:00–16:30 · Room A**  
 **Session Chair:** TBD
 
-| Order | Talk Time | Paper ID | Title | Authors |
-|---:|---|---|---|---|
-| 1 | 15:00–15:15 | NPC-2026-000118 | Beyond Compression Ratio: High-Throughput KV Compression for Disaggregated LLM Serving | Junhong Wu, Zedong Liu, Xinyang Ma, Yuhan Chen, Guangming Tan, Dingwen Tao |
-| 2 | 15:18–15:33 | NPC-2026-000348 | ARC-KV: Adaptive KV Cache Reuse via Cross-Document Attention Recovery for RAG | Xiyu Wang, Shixuan Sun, Minyi Guo |
-| 3 | 15:36–15:51 | NPC-2026-000361 | CohereKV: KV Cache Merging with Group Compactness for Efficient LLM Inference | Lixinran Tang, Zhihao Qu, Shihong Hu, Yukai Cheng, Yixiao Chen, Baoliu Ye |
-| 4 | 15:54–16:09 | NPC-2026-000206 | PEFTS: Multi-Tenant PEFT Serving | Qiaofeng Chen, Yifan Wang, Xiaohui Peng |
-| 5 | 16:12–16:27 | NPC-2026-000183 | TetrisServe: Towards Efficient Serving of Agentic LLM Workflows with Demand-aware Routing | Jinglin Chen, Yichen Bao, Yizhou Luo, Zhenghao Gan, Chen Chen, Minchen Yu, Zijun Li, Quan Chen, Minyi Guo |
+| Talk Time | Title | Authors |
+|---|---|---|
+|   15:00–15:15   |   Beyond Compression Ratio: High-Throughput KV Compression for Disaggregated LLM Serving   |   Junhong Wu, Zedong Liu, Xinyang Ma, Yuhan Chen, Guangming Tan, Dingwen Tao   |
+|   15:18–15:33   |   ARC-KV: Adaptive KV Cache Reuse via Cross-Document Attention Recovery for RAG   |   Xiyu Wang, Shixuan Sun, Minyi Guo   |
+|   15:36–15:51   |   CohereKV: KV Cache Merging with Group Compactness for Efficient LLM Inference   |   Lixinran Tang, Zhihao Qu, Shihong Hu, Yukai Cheng, Yixiao Chen, Baoliu Ye   |
+|   15:54–16:09   |   PEFTS: Multi-Tenant PEFT Serving   |   Qiaofeng Chen, Yifan Wang, Xiaohui Peng   |
+|   16:12–16:27   |   TetrisServe: Towards Efficient Serving of Agentic LLM Workflows with Demand-aware Routing   |   Jinglin Chen, Yichen Bao, Yizhou Luo, Zhenghao Gan, Chen Chen, Minchen Yu, Zijun Li, Quan Chen, Minyi Guo   |
 
 <a id="s5"></a>
 
@@ -150,13 +150,13 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 **15:00–16:30 · Room B**  
 **Session Chair:** TBD
 
-| Order | Talk Time | Paper ID | Title | Authors |
-|---:|---|---|---|---|
-| 1 | 15:00–15:15 | NPC-2026-000094 | Residual Low-Rank Hadamard Reparameterization for Heterogeneous Federated Learning | Yuan Yang |
-| 2 | 15:18–15:33 | NPC-2026-000140 | SemiFE: Resource-Efficient Federated Semi-supervised Learning via Soft Knowledge Aggregation for Heterogeneous Edge Systems | Yuanyishu Tian, Guozhao Xu, Dezhong Yao, Qi Cao, Hai Jin |
-| 3 | 15:36–15:51 | NPC-2026-000256 | NCGCN: A Neighborhood Cross-shaped GCN for Mitigating Feature Redundancy in Multi-DNN Offloading for Vehicular Edge Computing | Linbo Yuan, Shihong Hu, Jinjing Song, Zhihao Qu, Bin Tang, Baoliu Ye |
-| 4 | 15:54–16:09 | NPC-2026-000152 | Distributed Multi-Variant Model Placement in Edge Computing: A Game-Theoretic Framework | JunJie Liao, Qian Ma, Xu Chen |
-| 5 | 16:12–16:27 | NPC-2026-000065 | Dependency-aware Task Scheduling in Collaborative Edge Computing through Reverse Auction | Shicheng Lin, Qian Ma |
+| Talk Time | Title | Authors |
+|---|---|---|
+|   15:00–15:15   |   Residual Low-Rank Hadamard Reparameterization for Heterogeneous Federated Learning   |   Yuan Yang   |
+|   15:18–15:33   |   SemiFE: Resource-Efficient Federated Semi-supervised Learning via Soft Knowledge Aggregation for Heterogeneous Edge Systems   |   Yuanyishu Tian, Guozhao Xu, Dezhong Yao, Qi Cao, Hai Jin   |
+|   15:36–15:51   |   NCGCN: A Neighborhood Cross-shaped GCN for Mitigating Feature Redundancy in Multi-DNN Offloading for Vehicular Edge Computing   |   Linbo Yuan, Shihong Hu, Jinjing Song, Zhihao Qu, Bin Tang, Baoliu Ye   |
+|   15:54–16:09   |   Distributed Multi-Variant Model Placement in Edge Computing: A Game-Theoretic Framework   |   JunJie Liao, Qian Ma, Xu Chen   |
+|   16:12–16:27   |   Dependency-aware Task Scheduling in Collaborative Edge Computing through Reverse Auction   |   Shicheng Lin, Qian Ma   |
 
 <a id="s6"></a>
 
@@ -165,13 +165,13 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 **15:00–16:30 · Room C**  
 **Session Chair:** TBD
 
-| Order | Talk Time | Paper ID | Title | Authors |
-|---:|---|---|---|---|
-| 1 | 15:00–15:15 | NPC-2026-000054 | Efficient Large-Scale Temporal Graph Computing on the GPU | Jie Yang, Jiarun Li, Jin Zhao, Yu Zhang, Qinggang Wang, Xiaofei Liao, Hai Jin |
-| 2 | 15:18–15:33 | NPC-2026-000090 | Parallel Optimization of Sparse Matrix LU Factorization on GPU | Yingxiu Guo, Mingkun Wang, Rui Wang, Yi Liu |
-| 3 | 15:36–15:51 | NPC-2026-000300 | TensorBLAS: A BLAS3 Library Optimized for Tensor Cores | Dajun Huang, Shaoshuai Zhang |
-| 4 | 15:54–16:09 | NPC-2026-000366 | Gemini: Efficient Dynamic Graph Pattern Mining on Real-World GPU–PIM Heterogeneous Platforms | Yi Zhang, Yu Huang, Yiheng Yang, Deting Chen, Xiaofei Liao, Hai Jin |
-| 5 | 16:12–16:27 | NPC-2026-000344 | GraphPortfolio: Budgeted Compression of Full and Piecewise CUDA Graphs | Feng Zhang, Youyang Xia, Weizheng Lu, Zheng Chen, Yuyang Jin, Jidong Zhai, Xiaoyong Du |
+| Talk Time | Title | Authors |
+|---|---|---|
+|   15:00–15:15   |   Efficient Large-Scale Temporal Graph Computing on the GPU   |   Jie Yang, Jiarun Li, Jin Zhao, Yu Zhang, Qinggang Wang, Xiaofei Liao, Hai Jin   |
+|   15:18–15:33   |   Parallel Optimization of Sparse Matrix LU Factorization on GPU   |   Yingxiu Guo, Mingkun Wang, Rui Wang, Yi Liu   |
+|   15:36–15:51   |   TensorBLAS: A BLAS3 Library Optimized for Tensor Cores   |   Dajun Huang, Shaoshuai Zhang   |
+|   15:54–16:09   |   Gemini: Efficient Dynamic Graph Pattern Mining on Real-World GPU–PIM Heterogeneous Platforms   |   Yi Zhang, Yu Huang, Yiheng Yang, Deting Chen, Xiaofei Liao, Hai Jin   |
+|   16:12–16:27   |   GraphPortfolio: Budgeted Compression of Full and Piecewise CUDA Graphs   |   Feng Zhang, Youyang Xia, Weizheng Lu, Zheng Chen, Yuyang Jin, Jidong Zhai, Xiaoyong Du   |
 
 <a id="s7"></a>
 
@@ -180,12 +180,12 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 **17:00–18:30 · Room A**  
 **Session Chair:** TBD
 
-| Order | Talk Time | Paper ID | Title | Authors |
-|---:|---|---|---|---|
-| 1 | 17:00–17:15 | NPC-2026-000137 | FP4Quant: Efficient 4-Bit Communication Compression for Model-Parallel LLM Training | Man Liu, Xingchen Liu, Hairui Zhao, Guangming Tan, Dingwen Tao |
-| 2 | 17:18–17:33 | NPC-2026-000187 | C²-TCCL: Computation–Communication Co-Optimized Path Selection for Heterogeneous GPU Clusters | Kun Zhao, Shangguang Wang, Zhiyong Qiu, Wei Liu, Yu Fang |
-| 3 | 17:36–17:51 | NPC-2026-000350 | ORBIT: Predictive Scheduling of In-Network Aggregation Resources for Multi-Tenant Training | Yanrong Hu, Ziyu Liu, Fei Lei, Dezun Dong |
-| 4 | 17:54–18:09 | NPC-2026-000301 | Hydra: Transparent Replacement of a Failed GPU with Heterogeneous Idle GPUs in Distributed Training | Liyang Zhao, Yuanhong Huang, Hairui Zhao, Guangming Tan, Dingwen Tao |
+| Talk Time | Title | Authors |
+|---|---|---|
+|   17:00–17:15   |   FP4Quant: Efficient 4-Bit Communication Compression for Model-Parallel LLM Training   |   Man Liu, Xingchen Liu, Hairui Zhao, Guangming Tan, Dingwen Tao   |
+|   17:18–17:33   |   C²-TCCL: Computation–Communication Co-Optimized Path Selection for Heterogeneous GPU Clusters   |   Kun Zhao, Shangguang Wang, Zhiyong Qiu, Wei Liu, Yu Fang   |
+|   17:36–17:51   |   ORBIT: Predictive Scheduling of In-Network Aggregation Resources for Multi-Tenant Training   |   Yanrong Hu, Ziyu Liu, Fei Lei, Dezun Dong   |
+|   17:54–18:09   |   Hydra: Transparent Replacement of a Failed GPU with Heterogeneous Idle GPUs in Distributed Training   |   Liyang Zhao, Yuanhong Huang, Hairui Zhao, Guangming Tan, Dingwen Tao   |
 
 <a id="s8"></a>
 
@@ -194,12 +194,12 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 **17:00–18:30 · Room B**  
 **Session Chair:** TBD
 
-| Order | Talk Time | Paper ID | Title | Authors |
-|---:|---|---|---|---|
-| 1 | 17:00–17:15 | NPC-2026-000060 | TEE-Assisted Fingerprinting with State-Transition Auditing for Black-Box DNN Integrity Verification | Ke Xiao, Shilin Fu, Hengming Liu, Jiaxuan Li, Yunhua He, Chao Wang, Hongliang Zhu |
-| 2 | 17:18–17:33 | NPC-2026-000121 | CoPrune: Turning Compute Budgets into Deployable Models for TEE-GPU Collaborative Inference | Ke Xiao, Jiaxuan Li, Xu Wang, Hengming Liu, Shilin Fu, Yunhua He, Chao Wang |
-| 3 | 17:36–17:51 | NPC-2026-000150 | TAISM: A Programming-Model Abstraction for Heterogeneous Trusted Execution Environments | Ke Xiao, Hengming Liu, Xu Wang, Jiaxuan Li, Shilin Fu, Yunhua He, Chao Wang |
-| 4 | 17:54–18:09 | NPC-2026-000205 | MagBound: Relational Legality for Slot-Sanitization Masks in FHE Compilers for Packed CKKS | Hangcheng An, Yunchao Gu, Rui Wang |
+| Talk Time | Title | Authors |
+|---|---|---|
+|   17:00–17:15   |   TEE-Assisted Fingerprinting with State-Transition Auditing for Black-Box DNN Integrity Verification   |   Ke Xiao, Shilin Fu, Hengming Liu, Jiaxuan Li, Yunhua He, Chao Wang, Hongliang Zhu   |
+|   17:18–17:33   |   CoPrune: Turning Compute Budgets into Deployable Models for TEE-GPU Collaborative Inference   |   Ke Xiao, Jiaxuan Li, Xu Wang, Hengming Liu, Shilin Fu, Yunhua He, Chao Wang   |
+|   17:36–17:51   |   TAISM: A Programming-Model Abstraction for Heterogeneous Trusted Execution Environments   |   Ke Xiao, Hengming Liu, Xu Wang, Jiaxuan Li, Shilin Fu, Yunhua He, Chao Wang   |
+|   17:54–18:09   |   MagBound: Relational Legality for Slot-Sanitization Masks in FHE Compilers for Packed CKKS   |   Hangcheng An, Yunchao Gu, Rui Wang   |
 
 <a id="s9"></a>
 
@@ -208,13 +208,13 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 **17:00–18:30 · Room C**  
 **Session Chair:** TBD
 
-| Order | Talk Time | Paper ID | Title | Authors |
-|---:|---|---|---|---|
-| 1 | 17:00–17:15 | NPC-2026-000168 | Parallel Optimization of a Guiding-Center Orbit Simulation Code for Tokamak Plasmas on the Sunway Bluelight II Supercomputer | Wanying Sun, Tao Liu, Baofeng Gao, Han Qin, Ying Guo, Jingshan Pan |
-| 2 | 17:18–17:33 | NPC-2026-000201 | An Architecture-Aware Methodology for Optimizing Stencil-Based Applications on the LineShine Supercomputer | Jingheng Xu, Linyan Zhang, Zexi Cai, Linghao Zhang, Jingle Xu, Zhenchun Huang, Wenlai Zhao |
-| 3 | 17:36–17:51 | NPC-2026-000349 | Accelerating Convolution Operators for Mixed-Precision CNN Training on LineShine Supercomputer | Yiming Du, Mingzhen Li, Guangming Tan, Weile Jia |
-| 4 | 17:54–18:09 | NPC-2026-000356 | Toward Highly Efficient Intersection and Minimum-Distance Analysis for Geometric Modeling on ARM | Yize Zhang, Zhibo Xuan, Xin You, Hailong Yang |
-| 5 | 18:12–18:27 | NPC-2026-000324 | Accelerating Diffusion-Based Crystal Generation through Efficient Speculative Sampling | Chen Wang, Yuanchang Zhou, Siyu Hu, Guangming Tan, Mingzhen Li, Weile Jia |
+| Talk Time | Title | Authors |
+|---|---|---|
+|   17:00–17:15   |   Parallel Optimization of a Guiding-Center Orbit Simulation Code for Tokamak Plasmas on the Sunway Bluelight II Supercomputer   |   Wanying Sun, Tao Liu, Baofeng Gao, Han Qin, Ying Guo, Jingshan Pan   |
+|   17:18–17:33   |   An Architecture-Aware Methodology for Optimizing Stencil-Based Applications on the LineShine Supercomputer   |   Jingheng Xu, Linyan Zhang, Zexi Cai, Linghao Zhang, Jingle Xu, Zhenchun Huang, Wenlai Zhao   |
+|   17:36–17:51   |   Accelerating Convolution Operators for Mixed-Precision CNN Training on LineShine Supercomputer   |   Yiming Du, Mingzhen Li, Guangming Tan, Weile Jia   |
+|   17:54–18:09   |   Toward Highly Efficient Intersection and Minimum-Distance Analysis for Geometric Modeling on ARM   |   Yize Zhang, Zhibo Xuan, Xin You, Hailong Yang   |
+|   18:12–18:27   |   Accelerating Diffusion-Based Crystal Generation through Efficient Speculative Sampling   |   Chen Wang, Yuanchang Zhou, Siyu Hu, Guangming Tan, Mingzhen Li, Weile Jia   |
 
 ### Sunday, December 13 — Morning Sessions
 
@@ -225,13 +225,13 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 **08:30–10:00 · Room A**  
 **Session Chair:** TBD
 
-| Order | Talk Time | Paper ID | Title | Authors |
-|---:|---|---|---|---|
-| 1 | 08:30–08:45 | NPC-2026-000246 | Implementing and Provisioning Disaggregated Ultra-Large MoE Serving on Ascend | Jianwei Dong, Xiaolong Kang, Ye Tang, Weiyu Xie, Chengyu Qiu, Yaochen Han, Nan Li, Zhihan He, Xianglin Chen, Zhiyuan Ai, Mingxing Zhang |
-| 2 | 08:48–09:03 | NPC-2026-000286 | Mapping the Fidelity–Latency Frontier of Heterogeneous Mixture-of-Experts Inference | Ruijia Lou, Sheng Ma, Bo Wang, Shengbai Luo, Lizhou Wu, Tiejun Li |
-| 3 | 09:06–09:21 | NPC-2026-000105 | ASTran: Architecture-Aware Sparse Transformer Inference with Operator Fusion on Ascend NPUs | Kejie Ma, Wenqing Lin, Jianuo Sheng, Qingxiao Sun, Hailong Yang |
-| 4 | 09:24–09:39 | NPC-2026-000040 | QB64: Unified Low-Bit Execution for High-Throughput LLM Inference on MT-3000 | Yao Lu, Zhongzhi Luan, Jiaxing Qi, Bin Han, Chencan Wu, Gen Li, Qingxiao Sun, Hailong Yang, Depei Qian |
-| 5 | 09:42–09:57 | NPC-2026-000259 | SparQuant: Efficient Sparse NVFP4 Inference for Transformer Classifiers | Yukun Cai, Jiaan Wu, Ya Tan, Yukang Peng, Juan Cao, Guangming Tan, Dingwen Tao, Ninghui Sun |
+| Talk Time | Title | Authors |
+|---|---|---|
+|   08:30–08:45   |   Implementing and Provisioning Disaggregated Ultra-Large MoE Serving on Ascend   |   Jianwei Dong, Xiaolong Kang, Ye Tang, Weiyu Xie, Chengyu Qiu, Yaochen Han, Nan Li, Zhihan He, Xianglin Chen, Zhiyuan Ai, Mingxing Zhang   |
+|   08:48–09:03   |   Mapping the Fidelity–Latency Frontier of Heterogeneous Mixture-of-Experts Inference   |   Ruijia Lou, Sheng Ma, Bo Wang, Shengbai Luo, Lizhou Wu, Tiejun Li   |
+|   09:06–09:21   |   ASTran: Architecture-Aware Sparse Transformer Inference with Operator Fusion on Ascend NPUs   |   Kejie Ma, Wenqing Lin, Jianuo Sheng, Qingxiao Sun, Hailong Yang   |
+|   09:24–09:39   |   QB64: Unified Low-Bit Execution for High-Throughput LLM Inference on MT-3000   |   Yao Lu, Zhongzhi Luan, Jiaxing Qi, Bin Han, Chencan Wu, Gen Li, Qingxiao Sun, Hailong Yang, Depei Qian   |
+|   09:42–09:57   |   SparQuant: Efficient Sparse NVFP4 Inference for Transformer Classifiers   |   Yukun Cai, Jiaan Wu, Ya Tan, Yukang Peng, Juan Cao, Guangming Tan, Dingwen Tao, Ninghui Sun   |
 
 <a id="s11"></a>
 
@@ -240,12 +240,12 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 **08:30–10:00 · Room B**  
 **Session Chair:** TBD
 
-| Order | Talk Time | Paper ID | Title | Authors |
-|---:|---|---|---|---|
-| 1 | 08:30–08:45 | NPC-2026-000020 | SchedAgent: Useful-Readiness Scheduling for LLM Agent Workflows | Zicong Chen, Hairui Zhao, Guangming Tan, Dingwen Tao |
-| 2 | 08:48–09:03 | NPC-2026-000123 | Deploying Terminal LLM Agents on Embedded Edge Devices: Measuring and Mitigating the Agent Scaffold Tax | Chen Geng, Longxiang Wang, Xiaoshe Dong, Qiang Wang, Xingjun Zhang, Jia Wei |
-| 3 | 09:06–09:21 | NPC-2026-000389 | AgentServer: Decoupling Agent Loops, Tools, and Session State for Managed AI Agents | Yao Zhang, Zishu Yu, Yifan Wang, Xiaohui Peng, Zhiwei Xu |
-| 4 | 09:24–09:39 | NPC-2026-000111 | Verifier-Gated LLM Heuristic Evolution for Online Edge-Cluster Scheduling | Wenyao Liu, Junxian Liu, Yuwen Zhou, Changhao Qiu, Bangbang Ren, Lailong Luo |
+| Talk Time | Title | Authors |
+|---|---|---|
+|   08:30–08:45   |   SchedAgent: Useful-Readiness Scheduling for LLM Agent Workflows   |   Zicong Chen, Hairui Zhao, Guangming Tan, Dingwen Tao   |
+|   08:48–09:03   |   Deploying Terminal LLM Agents on Embedded Edge Devices: Measuring and Mitigating the Agent Scaffold Tax   |   Chen Geng, Longxiang Wang, Xiaoshe Dong, Qiang Wang, Xingjun Zhang, Jia Wei   |
+|   09:06–09:21   |   AgentServer: Decoupling Agent Loops, Tools, and Session State for Managed AI Agents   |   Yao Zhang, Zishu Yu, Yifan Wang, Xiaohui Peng, Zhiwei Xu   |
+|   09:24–09:39   |   Verifier-Gated LLM Heuristic Evolution for Online Edge-Cluster Scheduling   |   Wenyao Liu, Junxian Liu, Yuwen Zhou, Changhao Qiu, Bangbang Ren, Lailong Luo   |
 
 <a id="s12"></a>
 
@@ -254,13 +254,13 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 **08:30–10:00 · Room C**  
 **Session Chair:** TBD
 
-| Order | Talk Time | Paper ID | Title | Authors |
-|---:|---|---|---|---|
-| 1 | 08:30–08:45 | NPC-2026-000276 | SICA: A Shared Instruction Cache Architecture for Scale-Out Processors | Yingsong Wang, Hui Guo, Ling Yang, Junhui Wang, Hongbing Tan, Li Shen, Yongwen Wang, Libo Huang |
-| 2 | 08:48–09:03 | NPC-2026-000315 | TPBench: A Self-Contained Framework for Unified and Traceable Micro-Benchmarking | Qiucheng Liao, Zhengyuan Han, James Lin |
-| 3 | 09:06–09:21 | NPC-2026-000114 | Accelerating Critical Path Analysis of Large-Scale HPC Traces via Communication Affinity-Aware Scheduling | Yuyang Jin, Qi Zhang, Wenlai Zhao, Jidong Zhai |
-| 4 | 09:24–09:39 | NPC-2026-000221 | FastController: A Control Policy Based on Validated Profiles for Python Accelerator Process Configuration | Dengpan Shao, Taikang Yuan, Yangzi Liu, Zhengpei Hu, Jianqiang Huang |
-| 5 | 09:42–09:57 | NPC-2026-000342 | Q-Shard: Efficient Quantum Circuit Cutting via Prefix-Sharing Search and Resource-Aware Circuit Partition in DQC Environment | Pengyu Li, Xinglei Dou, Lei Liu |
+| Talk Time | Title | Authors |
+|---|---|---|
+|   08:30–08:45   |   SICA: A Shared Instruction Cache Architecture for Scale-Out Processors   |   Yingsong Wang, Hui Guo, Ling Yang, Junhui Wang, Hongbing Tan, Li Shen, Yongwen Wang, Libo Huang   |
+|   08:48–09:03   |   TPBench: A Self-Contained Framework for Unified and Traceable Micro-Benchmarking   |   Qiucheng Liao, Zhengyuan Han, James Lin   |
+|   09:06–09:21   |   Accelerating Critical Path Analysis of Large-Scale HPC Traces via Communication Affinity-Aware Scheduling   |   Yuyang Jin, Qi Zhang, Wenlai Zhao, Jidong Zhai   |
+|   09:24–09:39   |   FastController: A Control Policy Based on Validated Profiles for Python Accelerator Process Configuration   |   Dengpan Shao, Taikang Yuan, Yangzi Liu, Zhengpei Hu, Jianqiang Huang   |
+|   09:42–09:57   |   Q-Shard: Efficient Quantum Circuit Cutting via Prefix-Sharing Search and Resource-Aware Circuit Partition in DQC Environment   |   Pengyu Li, Xinglei Dou, Lei Liu   |
 
 <a id="s13"></a>
 
@@ -269,13 +269,13 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 **10:30–12:00 · Room A**  
 **Session Chair:** TBD
 
-| Order | Talk Time | Paper ID | Title | Authors |
-|---:|---|---|---|---|
-| 1 | 10:30–10:45 | NPC-2026-000028 | RHRS: Fine-Grained Batch Scheduling for Programmable LLM Inference Systems | Zihui Li, Gongming Zhao, Hongli Xu, Jianfeng Bao, Baoqing Wang, Li Li, Wenpeng Zhu |
-| 2 | 10:48–11:03 | NPC-2026-000242 | Remaining-Work-Aware Dynamic Scheduling for Multi-GPU PBR Diffusion Inference | Sanyuan Liu, Zhiqiang Liu, Chuanqian Tang, Qihan Xiong, Qiming Zhao |
-| 3 | 11:06–11:21 | NPC-2026-000249 | DDQFM: Accelerating Flow Matching Inference with Differential-based Dynamic Quantization | Zhen Wang, Zhihua Fan, Yuhang Qiu, Qingxiao Sun, Lei Liu, Xiaochun Ye, Wenming Li |
-| 4 | 11:24–11:39 | NPC-2026-000339 | opEng: Operator-Level Energy Profiling for LLM Inference | Sisi Qin, Siyu Wu, Yang Cheng, Hailong Yang |
-| 5 | 11:42–11:57 | NPC-2026-000329 | AttrPlace: Attribute-Driven Expert Placement for Efficient MoE Inference in Database Analytics | Liuxu Sun, Xiaohai Dai, Yao Chen, Xuanhua Shi |
+| Talk Time | Title | Authors |
+|---|---|---|
+|   10:30–10:45   |   RHRS: Fine-Grained Batch Scheduling for Programmable LLM Inference Systems   |   Zihui Li, Gongming Zhao, Hongli Xu, Jianfeng Bao, Baoqing Wang, Li Li, Wenpeng Zhu   |
+|   10:48–11:03   |   Remaining-Work-Aware Dynamic Scheduling for Multi-GPU PBR Diffusion Inference   |   Sanyuan Liu, Zhiqiang Liu, Chuanqian Tang, Qihan Xiong, Qiming Zhao   |
+|   11:06–11:21   |   DDQFM: Accelerating Flow Matching Inference with Differential-based Dynamic Quantization   |   Zhen Wang, Zhihua Fan, Yuhang Qiu, Qingxiao Sun, Lei Liu, Xiaochun Ye, Wenming Li   |
+|   11:24–11:39   |   opEng: Operator-Level Energy Profiling for LLM Inference   |   Sisi Qin, Siyu Wu, Yang Cheng, Hailong Yang   |
+|   11:42–11:57   |   AttrPlace: Attribute-Driven Expert Placement for Efficient MoE Inference in Database Analytics   |   Liuxu Sun, Xiaohai Dai, Yao Chen, Xuanhua Shi   |
 
 <a id="s14"></a>
 
@@ -284,12 +284,12 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 **10:30–12:00 · Room B**  
 **Session Chair:** TBD
 
-| Order | Talk Time | Paper ID | Title | Authors |
-|---:|---|---|---|---|
-| 1 | 10:30–10:45 | NPC-2026-000174 | Azimuth: LLM-Guided Superoptimization with Semantic Search Priors | Yanlin Tang, Yuanbo Wen, Jun Bi, Jianxing Xu, Ling Li, Qi Guo |
-| 2 | 10:48–11:03 | NPC-2026-000172 | Exploiting Profile-Guided Multi-Agent Optimization Workflow for Value-Related Inefficiencies | Xin You, Zhibo Xuan, Hailong Yang |
-| 3 | 11:06–11:21 | NPC-2026-000375 | CodeTrustEval: Trustworthy Performance Evaluation for AI-Generated Code | Sun Wu, Yangjie Zhou, Xing Ma, Zihan Liu, Weiming Hu, Jinyu Liu, Yuelang Li, Jingwen Leng, Yu Feng, Shixuan Sun, Anbang Wu, Quan Chen, Li Li, Binhang Qi, Yun Lin, Jin Song Dong, Minyi Guo |
-| 4 | 11:24–11:39 | NPC-2026-000070 | CISelect: Custom Instruction Selection via Multi-Level Cost Modeling Guided by Minimum Description Length | Jingzhuo Yuan, Zhijie Yang, Zhiyao Shen, Rui Gong, Lei Wang |
+| Talk Time | Title | Authors |
+|---|---|---|
+|   10:30–10:45   |   Azimuth: LLM-Guided Superoptimization with Semantic Search Priors   |   Yanlin Tang, Yuanbo Wen, Jun Bi, Jianxing Xu, Ling Li, Qi Guo   |
+|   10:48–11:03   |   Exploiting Profile-Guided Multi-Agent Optimization Workflow for Value-Related Inefficiencies   |   Xin You, Zhibo Xuan, Hailong Yang   |
+|   11:06–11:21   |   CodeTrustEval: Trustworthy Performance Evaluation for AI-Generated Code   |   Sun Wu, Yangjie Zhou, Xing Ma, Zihan Liu, Weiming Hu, Jinyu Liu, Yuelang Li, Jingwen Leng, Yu Feng, Shixuan Sun, Anbang Wu, Quan Chen, Li Li, Binhang Qi, Yun Lin, Jin Song Dong, Minyi Guo   |
+|   11:24–11:39   |   CISelect: Custom Instruction Selection via Multi-Level Cost Modeling Guided by Minimum Description Length   |   Jingzhuo Yuan, Zhijie Yang, Zhiyao Shen, Rui Gong, Lei Wang   |
 
 <a id="s15"></a>
 
@@ -298,13 +298,13 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 **10:30–12:00 · Room C**  
 **Session Chair:** TBD
 
-| Order | Talk Time | Paper ID | Title | Authors |
-|---:|---|---|---|---|
-| 1 | 10:30–10:45 | NPC-2026-000367 | CueEdge: Edge-Local Soft Avoidance for Heterogeneous Cloud-Edge Scheduling | Linsong Jin, Xingzhou Zhang, Wenyu Wang |
-| 2 | 10:48–11:03 | NPC-2026-000077 | Regime-Aware Dynamic Pricing for Token-Budgeted LMaaS | Yukai Su, Bangbang Ren, Lailong Luo |
-| 3 | 11:06–11:21 | NPC-2026-000101 | Efficient Wi-Fi CSI-Based Trajectory Tracking on Resource-Constrained Embedded Devices | Tu Hong, Renrui Tan, Renjie Ma, Sheng Chen, Xinyu Tong, Keqiu Li |
-| 4 | 11:24–11:39 | NPC-2026-000272 | MPSDNet: A Lightweight RGB-Infrared UAV Object Detection Network With Multi-Domain Feature Enhancement and Occlusion-Aware Fusion | Qinghui Chen, Wenjuan Ruan, Hong Wen, Ming Chen, Jie Ma, Junyu Rao, Fang Huo |
-| 5 | 11:42–11:57 | NPC-2026-000388 | Elbow-Heuristic-Guided Adaptive Weighted KNN Method for Visible Light Positioning | Qinghui Chen, Dewei Du, Hong Wen, Ming Chen, Jie Ma, Junyu Rao, Fang Huo, Wenjuan Ruan |
+| Talk Time | Title | Authors |
+|---|---|---|
+|   10:30–10:45   |   CueEdge: Edge-Local Soft Avoidance for Heterogeneous Cloud-Edge Scheduling   |   Linsong Jin, Xingzhou Zhang, Wenyu Wang   |
+|   10:48–11:03   |   Regime-Aware Dynamic Pricing for Token-Budgeted LMaaS   |   Yukai Su, Bangbang Ren, Lailong Luo   |
+|   11:06–11:21   |   Efficient Wi-Fi CSI-Based Trajectory Tracking on Resource-Constrained Embedded Devices   |   Tu Hong, Renrui Tan, Renjie Ma, Sheng Chen, Xinyu Tong, Keqiu Li   |
+|   11:24–11:39   |   MPSDNet: A Lightweight RGB-Infrared UAV Object Detection Network With Multi-Domain Feature Enhancement and Occlusion-Aware Fusion   |   Qinghui Chen, Wenjuan Ruan, Hong Wen, Ming Chen, Jie Ma, Junyu Rao, Fang Huo   |
+|   11:42–11:57   |   Elbow-Heuristic-Guided Adaptive Weighted KNN Method for Visible Light Positioning   |   Qinghui Chen, Dewei Du, Hong Wen, Ming Chen, Jie Ma, Junyu Rao, Fang Huo, Wenjuan Ruan   |
 
 ---
 
