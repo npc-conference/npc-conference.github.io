@@ -113,7 +113,7 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 | Order | Talk Time | Paper ID | Title | Authors |
 |---:|---|---|---|---|
-| 1 | 13:00–13:15 | NPC-2026-000098 | UNISON: User-Intent and Network-State Orchestrated Framework for 6G Distributed Core Networks | jinci wu, xinyi zhang, zhuoran ma, gaogang xie |
+| 1 | 13:00–13:15 | NPC-2026-000098 | UNISON: User-Intent and Network-State Orchestrated Framework for 6G Distributed Core Networks | Jinci Wu, Xinyi Zhang, Zhuoran Ma, Gaogang Xie |
 | 2 | 13:18–13:33 | NPC-2026-000157 | ST4TE: Selective Synchronization of In-Network Virtual IP Address Caching in Cloud Networks | Mingyuan Zang, Geng Li, Jie Wu |
 | 3 | 13:36–13:51 | NPC-2026-000171 | CA-FEC: Balancing Recovery and Overhead via Context-Aware FEC for Cloud Gaming | Bo Gao, Zhuo Liu, Huanhuan Zhang, Ming Yue, Jianghe Cui, Huadong Ma |
 | 4 | 13:54–14:09 | NPC-2026-000210 | NPLB: High-Capacity Stateful Load Balancing on a Novel Programmable Network Processor | Yangjin Lingzhuo, Chengyuan Huang, Chuhan Zhou, Chen Tian, Wanchun Dou, Guihai Chen |
@@ -167,7 +167,7 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 | Order | Talk Time | Paper ID | Title | Authors |
 |---:|---|---|---|---|
-| 1 | 15:00–15:15 | NPC-2026-000094 | Residual Low-Rank Hadamard Reparameterization for Heterogeneous Federated Learning | yuan yang |
+| 1 | 15:00–15:15 | NPC-2026-000094 | Residual Low-Rank Hadamard Reparameterization for Heterogeneous Federated Learning | Yuan Yang |
 | 2 | 15:18–15:33 | NPC-2026-000140 | SemiFE: Resource-Efficient Federated Semi-supervised Learning via Soft Knowledge Aggregation for Heterogeneous Edge Systems | Yuanyishu Tian, Guozhao Xu, Dezhong Yao, Qi Cao, Hai Jin |
 | 3 | 15:36–15:51 | NPC-2026-000256 | NCGCN: A Neighborhood Cross-shaped GCN for Mitigating Feature Redundancy in Multi-DNN Offloading for Vehicular Edge Computing | Linbo Yuan, Shihong Hu, Jinjing Song, Zhihao Qu, Bin Tang, Baoliu Ye |
 | 4 | 15:54–16:09 | NPC-2026-000152 | Distributed Multi-Variant Model Placement in Edge Computing: A Game-Theoretic Framework | JunJie Liao, Qian Ma, Xu Chen |
@@ -350,4 +350,3 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 | 3 | 11:06–11:21 | NPC-2026-000101 | Efficient Wi-Fi CSI-Based Trajectory Tracking on Resource-Constrained Embedded Devices | Tu Hong, Renrui Tan, Renjie Ma, Sheng Chen, Xinyu Tong, Keqiu Li |
 | 4 | 11:24–11:39 | NPC-2026-000272 | MPSDNet: A Lightweight RGB-Infrared UAV Object Detection Network With Multi-Domain Feature Enhancement and Occlusion-Aware Fusion | Qinghui Chen, Wenjuan Ruan, Hong Wen, Ming Chen, Jie Ma, Junyu Rao, Fang Huo |
 | 5 | 11:42–11:57 | NPC-2026-000388 | Elbow-Heuristic-Guided Adaptive Weighted KNN Method for Visible Light Positioning | Qinghui Chen, Dewei Du, Hong Wen, Ming Chen, Jie Ma, Junyu Rao, Fang Huo, Wenjuan Ruan |
-
