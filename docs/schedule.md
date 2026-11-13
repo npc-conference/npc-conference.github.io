@@ -4,7 +4,7 @@
 **Bali, Indonesia · December 11–13, 2026**  
 All times are local time in Bali (UTC+8, same as Beijing time).
 
-> **Program overview:** December 11 includes registration and scheduled pre-conference activities, including the Organizing Committee Meeting, Poster Session, and Welcome Dinner. The formal conference program begins on December 12 at 09:00 with the General Chair and PC Chair openings, followed by two 45-minute keynote talks separated by a coffee break. Paper presentations begin after lunch on December 12 and conclude by noon on December 13. The Conference Banquet and Best Paper Awards take place on the evening of December 12. The afternoon of December 13 is reserved for the conference summary and post-conference strategic meetings on the future of NPC and the internationalization of the CCF Distributed Computing Systems (DCS) Committee. The original 15 topical sessions and paper order from the program-planning spreadsheet are retained across three parallel rooms.
+> NPC 2026 features two keynote talks, 15 technical sessions across three parallel tracks, a poster session, and committee meetings. Paper presentations run from the afternoon of December 12 through noon on December 13.
 
 ## Program at a Glance
 
@@ -88,11 +88,8 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 #### S1: LLM Training I: Parallelism and Scheduling
 
-- **Date:** Dec 12
-- **Time:** 13:00–14:30
-- **Room:** Room A
-- **Session Chair:** TBD
-- **Papers:** 4
+**13:00–14:30 · Room A**  
+**Session Chair:** TBD
 
 | Order | Talk Time | Paper ID | Title | Authors |
 |---:|---|---|---|---|
@@ -105,11 +102,8 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 #### S2: Network Systems and Optimization
 
-- **Date:** Dec 12
-- **Time:** 13:00–14:30
-- **Room:** Room B
-- **Session Chair:** TBD
-- **Papers:** 5
+**13:00–14:30 · Room B**  
+**Session Chair:** TBD
 
 | Order | Talk Time | Paper ID | Title | Authors |
 |---:|---|---|---|---|
@@ -123,11 +117,8 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 #### S3: Storage and Data Systems
 
-- **Date:** Dec 12
-- **Time:** 13:00–14:30
-- **Room:** Room C
-- **Session Chair:** TBD
-- **Papers:** 5
+**13:00–14:30 · Room C**  
+**Session Chair:** TBD
 
 | Order | Talk Time | Paper ID | Title | Authors |
 |---:|---|---|---|---|
@@ -141,11 +132,8 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 #### S4: KV Cache and LLM Serving
 
-- **Date:** Dec 12
-- **Time:** 15:00–16:30
-- **Room:** Room A
-- **Session Chair:** TBD
-- **Papers:** 5
+**15:00–16:30 · Room A**  
+**Session Chair:** TBD
 
 | Order | Talk Time | Paper ID | Title | Authors |
 |---:|---|---|---|---|
@@ -159,11 +147,8 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 #### S5: Federated Learning and Edge Computing
 
-- **Date:** Dec 12
-- **Time:** 15:00–16:30
-- **Room:** Room B
-- **Session Chair:** TBD
-- **Papers:** 5
+**15:00–16:30 · Room B**  
+**Session Chair:** TBD
 
 | Order | Talk Time | Paper ID | Title | Authors |
 |---:|---|---|---|---|
@@ -177,11 +162,8 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 #### S6: GPU Computing and Optimization
 
-- **Date:** Dec 12
-- **Time:** 15:00–16:30
-- **Room:** Room C
-- **Session Chair:** TBD
-- **Papers:** 5
+**15:00–16:30 · Room C**  
+**Session Chair:** TBD
 
 | Order | Talk Time | Paper ID | Title | Authors |
 |---:|---|---|---|---|
@@ -195,11 +177,8 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 #### S7: LLM Training II: Communication and Resilience
 
-- **Date:** Dec 12
-- **Time:** 17:00–18:30
-- **Room:** Room A
-- **Session Chair:** TBD
-- **Papers:** 4
+**17:00–18:30 · Room A**  
+**Session Chair:** TBD
 
 | Order | Talk Time | Paper ID | Title | Authors |
 |---:|---|---|---|---|
@@ -212,11 +191,8 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 #### S8: Trusted Computing and Security
 
-- **Date:** Dec 12
-- **Time:** 17:00–18:30
-- **Room:** Room B
-- **Session Chair:** TBD
-- **Papers:** 4
+**17:00–18:30 · Room B**  
+**Session Chair:** TBD
 
 | Order | Talk Time | Paper ID | Title | Authors |
 |---:|---|---|---|---|
@@ -229,11 +205,8 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 #### S9: High-Performance Computing Applications
 
-- **Date:** Dec 12
-- **Time:** 17:00–18:30
-- **Room:** Room C
-- **Session Chair:** TBD
-- **Papers:** 5
+**17:00–18:30 · Room C**  
+**Session Chair:** TBD
 
 | Order | Talk Time | Paper ID | Title | Authors |
 |---:|---|---|---|---|
@@ -249,11 +222,8 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 #### S10: LLM Inference and AI Accelerators
 
-- **Date:** Dec 13
-- **Time:** 08:30–10:00
-- **Room:** Room A
-- **Session Chair:** TBD
-- **Papers:** 5
+**08:30–10:00 · Room A**  
+**Session Chair:** TBD
 
 | Order | Talk Time | Paper ID | Title | Authors |
 |---:|---|---|---|---|
@@ -267,11 +237,8 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 #### S11: LLM Agent Systems
 
-- **Date:** Dec 13
-- **Time:** 08:30–10:00
-- **Room:** Room B
-- **Session Chair:** TBD
-- **Papers:** 4
+**08:30–10:00 · Room B**  
+**Session Chair:** TBD
 
 | Order | Talk Time | Paper ID | Title | Authors |
 |---:|---|---|---|---|
@@ -284,11 +251,8 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 #### S12: Computer Architecture and Emerging Computing
 
-- **Date:** Dec 13
-- **Time:** 08:30–10:00
-- **Room:** Room C
-- **Session Chair:** TBD
-- **Papers:** 5
+**08:30–10:00 · Room C**  
+**Session Chair:** TBD
 
 | Order | Talk Time | Paper ID | Title | Authors |
 |---:|---|---|---|---|
@@ -302,11 +266,8 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 #### S13: AI Inference Optimization
 
-- **Date:** Dec 13
-- **Time:** 10:30–12:00
-- **Room:** Room A
-- **Session Chair:** TBD
-- **Papers:** 5
+**10:30–12:00 · Room A**  
+**Session Chair:** TBD
 
 | Order | Talk Time | Paper ID | Title | Authors |
 |---:|---|---|---|---|
@@ -320,11 +281,8 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 #### S14: LLM for Code Optimization
 
-- **Date:** Dec 13
-- **Time:** 10:30–12:00
-- **Room:** Room B
-- **Session Chair:** TBD
-- **Papers:** 4
+**10:30–12:00 · Room B**  
+**Session Chair:** TBD
 
 | Order | Talk Time | Paper ID | Title | Authors |
 |---:|---|---|---|---|
@@ -337,11 +295,8 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 #### S15: Cloud-Edge Systems and Intelligent Sensing
 
-- **Date:** Dec 13
-- **Time:** 10:30–12:00
-- **Room:** Room C
-- **Session Chair:** TBD
-- **Papers:** 5
+**10:30–12:00 · Room C**  
+**Session Chair:** TBD
 
 | Order | Talk Time | Paper ID | Title | Authors |
 |---:|---|---|---|---|
@@ -350,3 +305,7 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 | 3 | 11:06–11:21 | NPC-2026-000101 | Efficient Wi-Fi CSI-Based Trajectory Tracking on Resource-Constrained Embedded Devices | Tu Hong, Renrui Tan, Renjie Ma, Sheng Chen, Xinyu Tong, Keqiu Li |
 | 4 | 11:24–11:39 | NPC-2026-000272 | MPSDNet: A Lightweight RGB-Infrared UAV Object Detection Network With Multi-Domain Feature Enhancement and Occlusion-Aware Fusion | Qinghui Chen, Wenjuan Ruan, Hong Wen, Ming Chen, Jie Ma, Junyu Rao, Fang Huo |
 | 5 | 11:42–11:57 | NPC-2026-000388 | Elbow-Heuristic-Guided Adaptive Weighted KNN Method for Visible Light Positioning | Qinghui Chen, Dewei Du, Hong Wen, Ming Chen, Jie Ma, Junyu Rao, Fang Huo, Wenjuan Ruan |
+
+---
+
+*Note: The newly proposed meeting, poster-session, and dinner time slots on December 11 and the post-conference meetings on December 13 are draft arrangements, subject to confirmation by the organizing committee. Dinner venues and room assignments for these activities remain TBD. Technical-session chairs are listed as provided in the planning spreadsheet.*
