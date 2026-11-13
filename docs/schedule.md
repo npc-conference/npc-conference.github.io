@@ -103,7 +103,7 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 <a id="s2"></a>
 
-#### S2: Networking Systems
+#### S2: Network Systems and Optimization
 
 - **Date:** Dec 12
 - **Time:** 13:00–14:30
@@ -121,7 +121,7 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 <a id="s3"></a>
 
-#### S3: Storage and Data Compression
+#### S3: Storage and Data Systems
 
 - **Date:** Dec 12
 - **Time:** 13:00–14:30
@@ -157,7 +157,7 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 <a id="s5"></a>
 
-#### S5: Federated Learning and Edge Intelligence
+#### S5: Federated Learning and Edge Computing
 
 - **Date:** Dec 12
 - **Time:** 15:00–16:30
@@ -175,7 +175,7 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 <a id="s6"></a>
 
-#### S6: Parallel Algorithms and Libraries on GPUs
+#### S6: GPU Computing and Optimization
 
 - **Date:** Dec 12
 - **Time:** 15:00–16:30
@@ -227,7 +227,7 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 <a id="s9"></a>
 
-#### S9: HPC Applications on Supercomputers
+#### S9: High-Performance Computing Applications
 
 - **Date:** Dec 12
 - **Time:** 17:00–18:30
@@ -247,7 +247,7 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 <a id="s10"></a>
 
-#### S10: LLM Inference on Emerging AI Hardware
+#### S10: LLM Inference and AI Accelerators
 
 - **Date:** Dec 13
 - **Time:** 08:30–10:00
@@ -282,7 +282,7 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 <a id="s12"></a>
 
-#### S12: Architecture, Performance Analysis, and Quantum Computing
+#### S12: Computer Architecture and Emerging Computing
 
 - **Date:** Dec 13
 - **Time:** 08:30–10:00
@@ -300,7 +300,7 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 <a id="s13"></a>
 
-#### S13: LLM Inference Scheduling and Quantization
+#### S13: AI Inference Optimization
 
 - **Date:** Dec 13
 - **Time:** 10:30–12:00
@@ -318,7 +318,7 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 <a id="s14"></a>
 
-#### S14: LLM-Driven Compilation and Code Optimization
+#### S14: LLM for Code Optimization
 
 - **Date:** Dec 13
 - **Time:** 10:30–12:00
@@ -351,6 +351,3 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 | 4 | 11:24–11:39 | NPC-2026-000272 | MPSDNet: A Lightweight RGB-Infrared UAV Object Detection Network With Multi-Domain Feature Enhancement and Occlusion-Aware Fusion | Qinghui Chen, Wenjuan Ruan, Hong Wen, Ming Chen, Jie Ma, Junyu Rao, Fang Huo |
 | 5 | 11:42–11:57 | NPC-2026-000388 | Elbow-Heuristic-Guided Adaptive Weighted KNN Method for Visible Light Positioning | Qinghui Chen, Dewei Du, Hong Wen, Ming Chen, Jie Ma, Junyu Rao, Fang Huo, Wenjuan Ruan |
 
----
-
-*Note: The newly proposed meeting, poster-session, and dinner time slots on December 11 and the post-conference meetings on December 13 are draft arrangements, subject to confirmation by the organizing committee. Dinner venues and room assignments for these activities remain TBD. Technical-session chairs are listed as provided in the planning spreadsheet.*
