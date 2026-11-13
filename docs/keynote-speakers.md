@@ -1,24 +1,53 @@
 # Keynote Speakers
 
-!!! info "Coming soon!!!"
-    Please check back later for the keynotes.
-<!-- 
-## **From Scalable Computing to the Scaling Law: A Reexamination of Parallel Processing**
+NPC 2026 is delighted to welcome the following keynote speakers. Their talks will take place on **Saturday, December 12, 2026**, at the conference venue in Bali, Indonesia.
 
-<div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 1rem;">
-    <img src="../assets/imgs/xian-he-sun.png" alt="Dr. Xian-He Sun" style="width: 150px; border-radius: 8px;">
-    <div style="flex: 1;">
-        <h3 style="margin: 0;"><strong>Xian-He Sun</strong></h3>
-        <p style="margin: 0.5rem 0 0 0;">Illinois Institute of Technology<br>Chicago, USA</p>
-    </div>
-</div>
+---
 
-**Abstract:** AI’s recent success is driven by scaling laws, where increasing data and compute power yields predictably better accuracy. This trend demands computing systems that are infinitely scalable. This talk reevaluates parallel processing through both scale-out and scale-up lenses to address these AI-driven challenges. After reviewing foundational breakthroughs in the field, we present DataflowV (Dataflow under the von Neumann machine), a data-centric methodology that maximizes parallelism and concurrency from different aspects. We illustrate the DataflowV concept using two NSF-funded cyberinfrastructure systems: Hermes, for large-scale data handling, and ChronoLog, for application-specific AI-integrated optimizations. We conclude by introducing IOWrap, a data-management system tailored for the unique demands of modern AI agents.
+## Prof. Felix Wolf
 
-**Bio:** Dr. **Xian-He Sun** is a University Distinguished Professor, the Ron Hochsprung Endowed Chair of Computer Science, and the director of the Gnosis Research Center for AI-driven data management at the Illinois Institute of Technology (Illinois Tech). Before joining Illinois Tech, he worked at DoE Ames National Laboratory, at ICASE, NASA Langley Research Center, at Louisiana State University, Baton Rouge, and was an ASEE fellow at Navy Research Laboratories. Dr. Sun is an IEEE fellow and is known for his memory-bounded speedup model, also called Sun-Ni’s Law, for scalable computing. His research interests include high-performance data management, memory and I/O systems, and performance evaluation and optimization. He has over 350 publications and 7 patents in these areas and is currently leading multiple large software development projects in high performance data management systems. Dr. Sun is the Editor-in-Chief of the IEEE Transactions on Parallel and Distributed Systems, and a former department chair of the Computer Science Department at Illinois Tech. He received the Golden Core award from IEEE CS society in 2017, the ACM Karsten Schwan Best Paper Award from ACM HPDC in 2019, and the first prize best paper award from ACM/IEEE CCGrid in 2021. More information about Dr. Sun can be found on his web site [http://www.cs.iit.edu/~sun/](http://www.cs.iit.edu/~sun/){:target="_blank"}.
+<img src="https://www.informatik.tu-darmstadt.de/media/informatik/fb20_allgemeines/fb20_profilfotos/fb20_proferssors/Wolf_Felix_2026_415x415.jpg" alt="Prof. Felix Wolf" width="320" height="320" style="width: 320px; height: 320px; object-fit: cover; object-position: center; display: block;" />
 
-<div style="clear: both;"></div>
+**Full Professor, Department of Computer Science**  
+**Technical University of Darmstadt, Germany**
 
-----
+### Keynote Talk
 
- -->
+**Title:** TBD  
+**Date:** Saturday, December 12, 2026  
+**Time:** 09:30–10:15 (45 minutes)
+
+### Biography
+
+Felix Wolf is a Full Professor of Computer Science at Technical University of Darmstadt, where he leads the High-Performance Computing Lab. His research focuses on methods, tools, and algorithms for the development and optimization of parallel software systems, including performance modeling, scalable parallel algorithms, and resource management in high-performance computing and cloud environments.
+
+Before joining TU Darmstadt in 2015, he was a Full Professor at RWTH Aachen University and held research and academic positions at Forschungszentrum Jülich and the University of Tennessee, Knoxville. He received his Ph.D. from RWTH Aachen University in 2003. He also heads NHR4CES@TUDa, a high-performance computing center within Germany's National High-Performance Computing Alliance.
+
+**Profile:** [TU Darmstadt – Felix Wolf](https://www.hpclab.tu-darmstadt.de/lab/team/wolf/wolf.html)
+
+---
+
+## Assoc. Prof. Xueyan Tang
+
+<img src="https://www3.ntu.edu.sg/home/asxytang/photo.jpg" alt="Assoc. Prof. Xueyan Tang" width="320" height="320" style="width: 320px; height: 320px; object-fit: cover; object-position: center; display: block;" />
+
+**Associate Professor, College of Computing and Data Science**  
+**Nanyang Technological University, Singapore**
+
+### Keynote Talk
+
+**Title:** TBD  
+**Date:** Saturday, December 12, 2026  
+**Time:** 10:45–11:30 (45 minutes)
+
+### Biography
+
+Xueyan Tang is an Associate Professor in the College of Computing and Data Science at Nanyang Technological University (NTU), Singapore. He received his Ph.D. in Computer Science from the Hong Kong University of Science and Technology in 2003 and his B.Eng. in Computer Science and Engineering from Shanghai Jiao Tong University in 1998.
+
+His research interests include distributed systems, cloud computing, and resource allocation. He has served in editorial roles for leading journals, including *IEEE Transactions on Cloud Computing*, and has held program leadership and technical program committee roles for major international conferences in distributed and parallel computing.
+
+**Profile:** [NTU – Xueyan Tang](https://www3.ntu.edu.sg/home/asxytang/)
+
+---
+
+*Keynote titles and abstracts will be announced once confirmed.*
