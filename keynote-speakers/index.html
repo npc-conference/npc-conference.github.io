@@ -634,6 +634,15 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#abstract" class="md-nav__link">
+    <span class="md-ellipsis">
+      Abstract
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#biography_1" class="md-nav__link">
     <span class="md-ellipsis">
       Biography
@@ -864,9 +873,14 @@
 <p><strong>Associate Professor, College of Computing and Data Science</strong><br />
 <strong>Nanyang Technological University, Singapore</strong></p>
 <h3 id="keynote-talk_1">Keynote Talk</h3>
-<p><strong>Title:</strong> TBD<br />
+<p><strong>Title:</strong> Learning-Augmented Resource Management in Computer Systems<br />
 <strong>Date:</strong> Saturday, December 12, 2026<br />
 <strong>Time:</strong> 10:45–11:30 (45 minutes)</p>
+<h3 id="abstract">Abstract</h3>
+<p>Efficient resource management is fundamental to computer systems, where decisions about allocating scarce resources such as computing capacity, memory, and bandwidth must often be made online without knowledge of future demands. Classical online algorithms typically optimize for worst-case scenarios, providing strong theoretical guarantees but often sacrificing practical efficiency. In contrast, real-world workloads exhibit predictable patterns that can be exploited to improve performance.</p>
+<p>Learning-augmented algorithms offer a promising paradigm that combines the theoretical rigor of classical online algorithms with the predictive power of machine learning. By incorporating predictions into online decision-making, these algorithms aim to achieve near-optimal performance when predictions are accurate (consistency), degrade gracefully as prediction errors increase (smoothness), and retain strong worst-case guarantees even when predictions are unreliable (robustness).</p>
+<p>In this talk, I will present our recent research on learning-augmented algorithms for two fundamental resource management problems: virtual machine placement and online caching. For virtual machine placement, we study dynamic bin packing algorithms that minimize the total usage time of physical machines in cloud data centers, exploring non-clairvoyant, clairvoyant, and learning-augmented settings with different levels of information about virtual machine lifetimes.</p>
+<p>For online caching, we introduce a lightweight framework that strengthens the robustness of learning-augmented caching algorithms without compromising their optimal consistency or asymptotic time complexity, achieving the best-known consistency-robustness trade-off. Together, these studies illustrate how learning-augmented algorithm design can bridge the gap between worst-case theoretical guarantees and practical system efficiency.</p>
 <h3 id="biography_1">Biography</h3>
 <p>Xueyan Tang is an Associate Professor in the College of Computing and Data Science at Nanyang Technological University (NTU), Singapore. He received his Ph.D. in Computer Science from the Hong Kong University of Science and Technology in 2003 and his B.Eng. in Computer Science and Engineering from Shanghai Jiao Tong University in 1998.</p>
 <p>His research interests include distributed systems, cloud computing, and resource allocation. He has served in editorial roles for leading journals, including <em>IEEE Transactions on Cloud Computing</em>, and has held program leadership and technical program committee roles for major international conferences in distributed and parallel computing.</p>
