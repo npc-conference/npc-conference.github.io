@@ -36,9 +36,19 @@ Before joining TU Darmstadt in 2015, he was a Full Professor at RWTH Aachen Univ
 
 ### Keynote Talk
 
-**Title:** TBD  
+**Title:** Learning-Augmented Resource Management in Computer Systems  
 **Date:** Saturday, December 12, 2026  
 **Time:** 10:45–11:30 (45 minutes)
+
+### Abstract
+
+Efficient resource management is fundamental to computer systems, where decisions about allocating scarce resources such as computing capacity, memory, and bandwidth must often be made online without knowledge of future demands. Classical online algorithms typically optimize for worst-case scenarios, providing strong theoretical guarantees but often sacrificing practical efficiency. In contrast, real-world workloads exhibit predictable patterns that can be exploited to improve performance.
+
+Learning-augmented algorithms offer a promising paradigm that combines the theoretical rigor of classical online algorithms with the predictive power of machine learning. By incorporating predictions into online decision-making, these algorithms aim to achieve near-optimal performance when predictions are accurate (consistency), degrade gracefully as prediction errors increase (smoothness), and retain strong worst-case guarantees even when predictions are unreliable (robustness).
+
+In this talk, I will present our recent research on learning-augmented algorithms for two fundamental resource management problems: virtual machine placement and online caching. For virtual machine placement, we study dynamic bin packing algorithms that minimize the total usage time of physical machines in cloud data centers, exploring non-clairvoyant, clairvoyant, and learning-augmented settings with different levels of information about virtual machine lifetimes.
+
+For online caching, we introduce a lightweight framework that strengthens the robustness of learning-augmented caching algorithms without compromising their optimal consistency or asymptotic time complexity, achieving the best-known consistency-robustness trade-off. Together, these studies illustrate how learning-augmented algorithm design can bridge the gap between worst-case theoretical guarantees and practical system efficiency.
 
 ### Biography
 

@@ -58,7 +58,7 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 | 09:15–09:30 | PC Chair Opening | Main Hall |
 | 09:30–10:15 | **Keynote 1: Prof. Felix Wolf** — TU Darmstadt | Main Hall |
 | 10:15–10:45 | Coffee Break | Foyer |
-| 10:45–11:30 | **Keynote 2: Prof. Xueyan Tang** — Nanyang Technological University (NTU) | Main Hall |
+| 10:45–11:30 | **Keynote 2: Prof. Xueyan Tang** — *Learning-Augmented Resource Management in Computer Systems* (NTU) | Main Hall |
 | 11:30–13:00 | Lunch | — |
 | 13:00–14:30 | Technical Sessions [S1](#s1)–[S2](#s2)–[S3](#s3) (parallel) | Rooms A, B & C |
 | 14:30–15:00 | Coffee Break | Foyer |
