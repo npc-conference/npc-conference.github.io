@@ -54,11 +54,11 @@ nav:
   - Workshops: workshops.md
   - Attending: 
     - Lodging: lodging.md
-    # - Travel: travel.md
-    # - Student Travel Awards: student-travel-awards.md
+    - Travel: travel.md
+    - Student Travel Awards: student-travel-awards.md
     - Venue: venue.md
-    # - Visa: visa.md
-    # - Social Special Events: social-special-events.md
+    - Visa: visa.md
+    - Social Special Events: social-special-events.md
   - Sponsors: sponsors.md
 plugins:
   - search
