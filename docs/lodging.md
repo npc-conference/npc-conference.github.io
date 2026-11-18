@@ -1,20 +1,20 @@
 ## Lodging
 
-Coming soon!!!
+!!! note "Booking recommendation"
+    We approached the hotels to negotiate a conference group rate. However, because this destination is very popular, we were unable to secure rates better than those available on **[Booking.com](https://www.booking.com){:target="_blank"}** and **[Trip.com](https://www.trip.com){:target="_blank"}**. We therefore recommend that attendees book directly through Booking.com or Trip.com.
 
-<!-- The conference recommends the following hotels due to location, international reputation, and familiarity. **Rates below are estimates only and are not guaranteed**; please confirm with each property at booking.
+### Conference Venue Hotel
 
-- [**Park Avenue Rochester**](https://parkavenuegroup.com/property/singapore-rochester-parkavenue/){:target="_blank"}
-  
-    31 Rochester Drive Park, Singapore 138637
+- [**Hilton Bali Resort**](https://www.booking.com/hotel/id/hilton-bali-resort.html){:target="_blank"}
 
-    - Superior Room (single occupancy): S$200/night
-    - Deluxe Room (single occupancy): S$210/night
+    Jl. Raya Nusa Dua Selatan, Bali, 80361 Nusa Dua, Indonesia
 
-- [**Citadines Connect Rochester**](https://www.discoverasr.com/en/citadines-connect/singapore/citadines-connect-rochester-singapore){:target="_blank"}
+### Recommended Hotels
 
-    1 Rochester Park, Singapore 139212
+- [**Conrad Bali**](https://www.booking.com/hotel/id/conrad-bali.html){:target="_blank"}
 
-    - Deluxe: S$230/night
-    - Deluxe Garden: S$260/night
-    - Premier: S$320/night -->
+    Jalan Pratama 168, Tanjung Benoa, On the Coast of Nusa Dua, 80363 Nusa Dua, Indonesia
+
+- [**Renaissance Bali Nusa Dua Resort**](https://www.booking.com/hotel/id/renaissance-bali-nusa-dua-resort.html){:target="_blank"}
+
+    Kawasan Pariwisata Lot SW 4 & 5, 80363 Nusa Dua, Indonesia

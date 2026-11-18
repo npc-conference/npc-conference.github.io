@@ -2,6 +2,7 @@
 
 **22nd Annual IFIP International Conference on Network and Parallel Computing (NPC 2026)**  
 **Bali, Indonesia · December 11–13, 2026**  
+**Venue: Hilton Bali Resort, Jl. Raya Nusa Dua Selatan, Bali, 80361 Nusa Dua, Indonesia**  
 All times are local time in Bali (UTC+8, same as Beijing time).
 
 > NPC 2026 features two keynote talks, 15 technical sessions across three parallel tracks, a poster session, and committee meetings. Paper presentations run from the afternoon of December 12 through noon on December 13.

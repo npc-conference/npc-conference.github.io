@@ -22,6 +22,8 @@ The 22nd Annual IFIP International Conference on Network and Parallel Computing 
 
 <strong style="color:#4CAF50">Location: Bali, Indonesia — UNCHANGED</strong>
 
+<strong style="color:#4CAF50">Venue: Hilton Bali Resort, Jl. Raya Nusa Dua Selatan, Bali, 80361 Nusa Dua, Indonesia</strong>
+
 </div>
 
 <div markdown>
