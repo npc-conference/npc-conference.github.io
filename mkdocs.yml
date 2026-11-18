@@ -52,11 +52,11 @@ nav:
     # - Panels: panels.md
     # - Tutorials: tutorials.md
   - Workshops: workshops.md
-  - Attending:lodging.md
-    # - Lodging: lodging.md
+  - Attending: 
+    - Lodging: lodging.md
     # - Travel: travel.md
     # - Student Travel Awards: student-travel-awards.md
-    # - Venue: venue.md
+    - Venue: venue.md
     # - Visa: visa.md
     # - Social Special Events: social-special-events.md
   - Sponsors: sponsors.md
