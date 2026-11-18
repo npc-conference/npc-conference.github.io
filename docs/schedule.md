@@ -19,7 +19,7 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 | Fri, Dec 11 | 18:30–20:30 | NPC 2026 Welcome Dinner |
 | Sat, Dec 12 | 09:00–09:15 | General Chair Opening |
 | Sat, Dec 12 | 09:15–09:30 | PC Chair Opening |
-| Sat, Dec 12 | 09:30–10:15 | Keynote 1: Prof. Felix Wolf (TU Darmstadt) |
+| Sat, Dec 12 | 09:30–10:15 | Keynote 1: Prof. Felix Wolf — Rewiring the Human Brain: On the Fabric of Associative Thinking (TU Darmstadt) |
 | Sat, Dec 12 | 10:15–10:45 | Coffee Break |
 | Sat, Dec 12 | 10:45–11:30 | Keynote 2: Prof. Xueyan Tang (NTU) |
 | Sat, Dec 12 | 11:30–13:00 | Lunch |
@@ -56,7 +56,7 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 |---|---|---|
 | 09:00–09:15 | General Chair Opening | Main Hall |
 | 09:15–09:30 | PC Chair Opening | Main Hall |
-| 09:30–10:15 | **Keynote 1: Prof. Felix Wolf** — TU Darmstadt | Main Hall |
+| 09:30–10:15 | **Keynote 1: Prof. Felix Wolf** — *Rewiring the Human Brain: On the Fabric of Associative Thinking* (TU Darmstadt) | Main Hall |
 | 10:15–10:45 | Coffee Break | Foyer |
 | 10:45–11:30 | **Keynote 2: Prof. Xueyan Tang** — *Learning-Augmented Resource Management in Computer Systems* (NTU) | Main Hall |
 | 11:30–13:00 | Lunch | — |
@@ -152,7 +152,7 @@ All times are local time in Bali (UTC+8, same as Beijing time).
 
 | Talk Time | Title | Authors |
 |---|---|---|
-|   15:00–15:15   |   Residual Low-Rank Hadamard Reparameterization for Heterogeneous Federated Learning   |   Yuan Yang   |
+|   15:00–15:15   |   Residual Low-Rank Hadamard Reparameterization for Heterogeneous Federated Learning   |   Yang Yuan, Xu Wang, Ke Xiao, Yuxuan Wang, and Hongliang Zhu   |
 |   15:18–15:33   |   SemiFE: Resource-Efficient Federated Semi-supervised Learning via Soft Knowledge Aggregation for Heterogeneous Edge Systems   |   Yuanyishu Tian, Guozhao Xu, Dezhong Yao, Qi Cao, Hai Jin   |
 |   15:36–15:51   |   NCGCN: A Neighborhood Cross-shaped GCN for Mitigating Feature Redundancy in Multi-DNN Offloading for Vehicular Edge Computing   |   Linbo Yuan, Shihong Hu, Jinjing Song, Zhihao Qu, Bin Tang, Baoliu Ye   |
 |   15:54–16:09   |   Distributed Multi-Variant Model Placement in Edge Computing: A Game-Theoretic Framework   |   JunJie Liao, Qian Ma, Xu Chen   |

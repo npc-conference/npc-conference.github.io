@@ -13,15 +13,19 @@ NPC 2026 is delighted to welcome the following keynote speakers. Their talks wil
 
 ### Keynote Talk
 
-**Title:** TBD  
+**Title:** Rewiring the Human Brain: On the Fabric of Associative Thinking  
 **Date:** Saturday, December 12, 2026  
 **Time:** 09:30–10:15 (45 minutes)
 
+### Abstract
+
+Concept cells are neurons in the medial temporal lobe that represent an abstract concept, such as a familiar person, in a context-independent way. They are activated by heterogeneous and potentially multimodal sensory input related to the concept, such as viewing a photo of the person, reading the person's name, or hearing the person's voice. Learning the concept implies connecting the cortical cells that are triggered when such features are perceived with the cells of the concept, resulting in an associative memory engram. Traditional models explain its formation with Hebbian learning through synaptic plasticity, the strengthening of existing synapses in response to co-activation. However, the low edge density of the brain suggests that preexisting synapses between these cells are relatively unlikely, rendering such engrams inefficient and volatile. Instead, it is plausible that more persistent concept engrams rely on structural plasticity, involving the creation of synapses de novo. Yet, it remains unclear how neurons can find new postsynaptic targets over such a considerable distance. In this paper, we simulate the formation of such structural engrams in the connectomes of healthy subjects, offering a model hypothesis for how engrams can form between remote neurons by following homeostatic principles. We further demonstrate how activating a learned concept can trigger related concepts through overlapping sensory associations, in a process we call a percept-concept loop. Our results offer a new perspective on how learning could occur in the brain by adapting the network structure to changing tasks without central control.
+
 ### Biography
 
-Felix Wolf is a Full Professor of Computer Science at Technical University of Darmstadt, where he leads the High-Performance Computing Lab. His research focuses on methods, tools, and algorithms for the development and optimization of parallel software systems, including performance modeling, scalable parallel algorithms, and resource management in high-performance computing and cloud environments.
+Felix Wolf is a full professor of computer science at the Technical University of Darmstadt, where he directs the High-Performance Computing Lab. His research focuses on methods, tools, and algorithms that support the development and deployment of HPC applications throughout their entire life cycle, including design, optimization, scaling, and tuning. Through his work on scalable algorithms for brain simulations, he developed an interest in computational neuroscience.
 
-Before joining TU Darmstadt in 2015, he was a Full Professor at RWTH Aachen University and held research and academic positions at Forschungszentrum Jülich and the University of Tennessee, Knoxville. He received his Ph.D. from RWTH Aachen University in 2003. He also heads NHR4CES@TUDa, a high-performance computing center within Germany's National High-Performance Computing Alliance.
+Prior to joining the Technical University of Darmstadt in 2015, he was a full professor at RWTH Aachen University and held positions at Forschungszentrum Jülich and the University of Tennessee in Knoxville. He received his Ph.D. from RWTH Aachen University in 2003. Wolf also heads NHR4CES@TUDa, a high-performance computing center within Germany's National High-Performance Computing Alliance (NHR).
 
 **Profile:** [TU Darmstadt – Felix Wolf](https://www.hpclab.tu-darmstadt.de/lab/team/wolf/wolf.html)
 
@@ -59,5 +63,3 @@ His research interests include distributed systems, cloud computing, and resourc
 **Profile:** [NTU – Xueyan Tang](https://www3.ntu.edu.sg/home/asxytang/)
 
 ---
-
-*Keynote titles and abstracts will be announced once confirmed.*
